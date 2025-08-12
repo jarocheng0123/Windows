@@ -1,0 +1,198 @@
+
+Everything         AnyTXT Searcher           Listary            Quicker     QTTabBar       QuickLook     FileViewPro           Universal Viewer        ContextMenuManager.NET.4.0      SpaceSniffer     
+Wise Force Deleter      FastCopy        Clash for Windows      IDM    迅雷   
+微软常用运行库合集、
+小鱼儿yr系统封装优化设置辅助工具、Dism++、软媒设置大师、关闭安全中心、防火墙、卸载系统自带应用
+
+
+美化工具箱备份
+QT语言 备份
+
+
+
+
+
+
+Wox
+
+
+WinSCP(SSH客户端)
+
+FileZilla
+向日葵
+AnyTXT Searcher(文档内容搜索工具 ) 
+
+
+CuteHttpFileServer(文件共享工具) 
+Removable Access tool(存储设备接口权限工具) 
+USBCopyer(U盘小偷)
+
+
+[系统精简工具(Dism++)](https://github.com/Chuyu-Team/Dism-Multi-language/releases)
+
+[IDM 激活脚本](https://github.com/lstprjct/IDM-Activation-Script)
+[下载 Windows 10](https://www.microsoft.com/zh-cn/software-download/windows10)
+[HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
+[360 Zip](https://www.360totalsecurity.com/zh-cn/360zip/)
+[优启通EasyU 3.7.2023.1206_小鱼儿yr定制版](https://www.yrxitong.com/h-nd-764.html)
+[Windows上最快的复制/备份软件](https://fastcopy.jp/)
+[Win10 Win11系统版本一键切换](https://ossq.cn/switching.html)
+
+[Win10版本一键转换工具](https://www.yrxitong.com/h-nd-288.html)
+
+
+[Adobe Flash Player 34.0.0.308_三合一特别版](https://www.yrxitong.com/h-nd-66.html)
+
+[PotPlayer](http://www.potplayercn.com/)
+[傲梅分区助手](https://www.disktool.cn/download.html)
+[DiskGenius](https://www.diskgenius.cn/)
+[HiBit Uninstaller](https://www.hibitsoft.ir/)
+[Geek Uninstaller](https://geekuninstaller.com/)
+
+[UltraISO](https://ultraiso.net/xiazai.html)
+[高级注册表编辑器_RegCool ](https://www.yrxitong.com/h-nd-642.html)
+
+
+[小鱼儿yr系统封装优化设置辅助工具2.11.8](https://www.yrxitong.com/h-nd-100.html)
+
+[Everything](https://www.voidtools.com/zh-cn/downloads/)
+
+[QQ](https://im.qq.com/index/#downloadAnchor)
+[微信](https://windows.weixin.qq.com/?lang=zh_CN)
+[抖音](https://www.douyin.com/downloadpage/pc)
+
+[QQ音乐](https://y.qq.com/)
+[Windows 更新阻止程序](https://www.sordum.org/9470/windows-update-blocker-v1-8/)
+[Windows Defender开启关闭工具](https://www.sordum.org/9480/defender-control-v2-1/)
+[文件解锁工具_IObit Unlocker](https://www.iobit.com/en/iobit-unlocker.php)
+
+[DNS 服务器](https://www.sordum.org/7952/dns-jumper-v2-3/)
+[磁盘空间占用分析WizTree](https://diskanalyzer.com/download?ref=upgrade)
+[批量文件重命名Bulk_Rename_Utility](https://www.yrxitong.com/h-nd-859.html)
+[Windows右键菜单管理程序](https://github.com/BluePointLilac/ContextMenuManager)
+
+
+360 Zip
+alist-desktop
+Bandizip
+Clash Verge
+Google Chrome
+Internet Download Manager
+iTunes
+Edge浏览器
+java python 等多版本
+VScode
+Notepad++
+夜神NoxPlayer
+PDF24 
+PotPlayer-64 bit 播放器
+QQ
+QQ音乐
+QTTabBar ver 1043 文件夹管理器
+Quicker 快捷方式
+QuickLook 空格预览
+Telegram
+VMware Workstation
+WPS
+分区助手 10.2.0
+小米妙享
+微信
+抖音
+火绒安全软件
+爱思助手8
+看图王破解版
+腾讯文档
+豆包
+迅雷
+
+360 Zip
+alist-desktop
+Bandizip
+Clash Verge
+Google Chrome
+Internet Download Manager
+iTunes
+Edge浏览器
+java python 等多版本
+VScode
+Notepad++
+夜神NoxPlayer
+PDF24 
+PotPlayer-64 bit 播放器
+QQ
+QQ音乐
+QTTabBar ver 1043 文件夹管理器
+Quicker 快捷方式
+QuickLook 空格预览
+Telegram
+VMware Workstation
+WPS
+分区助手 10.2.0
+小米妙享
+微信
+抖音
+火绒安全软件
+爱思助手8
+看图王破解版
+腾讯文档
+豆包
+迅雷
+
+
+
+
+Edge
+QQ
+微信
+抖音
+豆包
+360 zip
+Bandzip
+clash-verge  （虚拟网卡模式 开机自启 静默启动）
+ContexMenuManager.NET.4.0.exe （右键管理）
+安全中心关闭.exe
+DiskGenius 破解版
+DNS 优选
+Everything
+geek
+Google chrome
+Hibit
+IDM激活.cmd
+IDM
+iTunes 苹果备份
+Notepad++
+PDF24
+PotPlayer
+QQ音乐
+Quicker
+QuickLook
+电报
+VScode
+VMware
+WPS 政府版
+Xmind
+爱思助手
+分区助手
+磁盘空间分析器（SpaceSniffer）
+火绒安全
+2345看图 破解版
+夜神模拟器
+批量重命名
+腾讯文档
+文本文件对比
+小米秒享
+迅雷破解版
+Docker Desktop
+QQScreenShot 截图单文件
+GitHubDesktop
+Neat Download Manager 1.4.10
+pycharm64
+VNC-Viewer-7.11.0
+Windows 激活HEU-KMS
+小鱼儿优启通
+小鱼儿ISO
+Adobe-Flash
+
+
+
+
