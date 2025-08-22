@@ -1,5 +1,3 @@
-GitHub收藏列表内容
-U盘内容同步
 
 
 ## 检查系统配置
@@ -18,6 +16,9 @@ U盘内容同步
 [电脑配置一键读取v2.0](https://www.52pojie.cn/thread-1760171-1-1.html)
 
 
+
+## 数据备份
+[Windows上最快的复制/备份软件](https://fastcopy.jp/)
 
 
 
@@ -42,6 +43,14 @@ CPU 虚拟化
 数据盘（F:130）F 文件/共享文件夹/VMware虚拟机
 
 
+
+[傲梅分区助手](https://www.disktool.cn/download.html)
+[DiskGenius](https://www.diskgenius.cn/)
+
+
+磁盘空间分析器(SpaceSniffer)1.3.0.2汉化版.exe
+DiskGenius_Pro_v5.4.6.1441_x64_免安装PRO.exe
+
 ## 磁盘文件
 
 Windows 镜像
@@ -57,6 +66,10 @@ Windows  专业工作站版
 修改oobe
 
 
+## 系统安装
+[优启通EasyU 3.7.2023.1206_小鱼儿yr定制版](https://www.yrxitong.com/h-nd-764.html)
+
+
 
 [创建 Windows 10 安装媒体](https://www.microsoft.com/zh-cn/software-download/windows10)
 
@@ -70,6 +83,13 @@ Windows  专业工作站版
 关闭磁盘锁BitLocker
 传递优化
 自动更新
+
+
+
+
+[Win10版本一键转换工具](https://www.yrxitong.com/h-nd-288.html)
+
+[HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)
 
 
 ## 简单配置
@@ -88,7 +108,9 @@ Windows  专业工作站版
 
 ## 系统优化
 
-
+dControl.exe
+一键禁用卸载Windows Defender1.1.exe
+关闭微软安全中心.exe
 
 防篡改 时实扫描
 (关闭)安全中心 防火墙
@@ -103,8 +125,16 @@ UAC窗口
 安卓子系统
 
 
+## 安全类
+
+[HiBit Uninstaller](https://www.hibitsoft.ir/)
+[Geek Uninstaller](https://geekuninstaller.com/)
+
+
 ## Windows 设置
-Dism++
+
+[系统精简工具(Dism++)](https://github.com/Chuyu-Team/Dism-Multi-language/releases)
+
 
 [微软 Edge 配置百科](https://download.csdn.net/download/Icesky1234/89792636)
 [Windows优化工具](https://github.com/hellzerg/optimizer)
@@ -159,10 +189,21 @@ Password@123
 Bandizip
 - [360 Zip](https://www.360totalsecurity.com/zh-cn/360zip/)
 
-## 社交媒体
-QQ
-- [微信](https://weixin.qq.com/)
+[UltraISO](https://ultraiso.net/xiazai.html)
 
+
+## 社交媒体
+
+
+
+
+
+[QQ](https://im.qq.com/index/#downloadAnchor)
+[微信](https://windows.weixin.qq.com/?lang=zh_CN)
+
+## 音乐娱乐
+[QQ音乐](https://y.qq.com/)
+[抖音](https://www.douyin.com/downloadpage/pc)
 
 ## 办公
 PDF24 Creator(PDF工具箱)
@@ -182,7 +223,13 @@ ShareX
 
 ## 下载
 - [IDM](https://www.internetdownloadmanager.com/?v=642b41)
+
+
+[IDM 激活脚本](https://github.com/lstprjct/IDM-Activation-Script)
+
+
 [NDM](https://www.neatdownloadmanager.com/index.php/en/)
+迅雷破解版
 
 
 IDM文件类型
@@ -203,7 +250,7 @@ SpaceSniffer(磁盘空间分析工具)
 ## PE系统
 - [优启通EasyU 3.7.2023.1206_小鱼儿yr定制版](https://www.yrxitong.com/h-nd-764.html)
 - [软碟通_UltraISO 9.7.6.3860](https://www.yrxitong.com/h-nd-377.html)
-
+WePE_64_V2.3.iso
 
 ## 安全
 - [Defender Control v2.1](https://www.sordum.org/9480/defender-control-v2-1/)
@@ -212,6 +259,10 @@ SpaceSniffer(磁盘空间分析工具)
 
 ## 激活工具
 - [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator/releases)
+
+## 网络工具
+Clash.for.Windows.Setup.0.20.39.exe
+clash-verge  （虚拟网卡模式 开机自启 静默启动）
 
 
 ## 效率工具
@@ -222,6 +273,39 @@ SpaceSniffer(磁盘空间分析工具)
 [剪贴板管理器](https://ditto-cp.sourceforge.io/)
 
 
+爱思助手8
+豆包
+AI 类
+
+
+
+
+[Adobe Flash Player 34.0.0.308_三合一特别版](https://www.yrxitong.com/h-nd-66.html)
+
+[PotPlayer](http://www.potplayercn.com/)
+
+
+
+
+[高级注册表编辑器_RegCool ](https://www.yrxitong.com/h-nd-642.html)
+
+
+[小鱼儿yr系统封装优化设置辅助工具2.11.8](https://www.yrxitong.com/h-nd-100.html)
+
+[Everything](https://www.voidtools.com/zh-cn/downloads/)
+
+
+
+
+[Windows 更新阻止程序](https://www.sordum.org/9470/windows-update-blocker-v1-8/)
+[Windows Defender开启关闭工具](https://www.sordum.org/9480/defender-control-v2-1/)
+[文件解锁工具_IObit Unlocker](https://www.iobit.com/en/iobit-unlocker.php)
+
+[DNS 服务器](https://www.sordum.org/7952/dns-jumper-v2-3/)
+[磁盘空间占用分析WizTree](https://diskanalyzer.com/download?ref=upgrade)
+[批量文件重命名Bulk_Rename_Utility](https://www.yrxitong.com/h-nd-859.html)
+[Windows右键菜单管理程序](https://github.com/BluePointLilac/ContextMenuManager)
+
 
 ## 低频高效软件
 
@@ -230,6 +314,8 @@ SpaceSniffer(磁盘空间分析工具)
 
 ## 系统工具
 
+
+Wox
 ContextMenuManager（右键菜单管理工具）
 PowerToys
 [EarTrumpet 是一套功能強大的 Windows 音量控制程式](https://apps.microsoft.com/detail/9nblggh516xp?hl=zh-TW&gl=HK)
@@ -345,7 +431,7 @@ Win + L	锁定电脑
 
 
 
-## 历史
+## 历史 选择性保留
 
 
 
