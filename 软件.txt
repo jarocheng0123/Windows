@@ -31,19 +31,6 @@
 
 
 
-[最好的 Windows 优化器](https://github.com/hellzerg/optimizer/releases)
-[PowerToys](https://github.com/microsoft/PowerToys/releases)
-[WGestures 2 进阶的鼠标手势](https://www.yingdev.com/projects/wgestures2)
-[Windows11轻松设置](https://www.bilibili.com/opus/904672369138729017)
-[删除 Windows 11 周围各个地方的广告的 GUI 工具](https://github.com/xM4ddy/OFGB/releases)
-[WingetUI 软件管理器](https://github.com/marticliment/UniGetUI/releases)
-
-[Universal Viewer 是一款适用于多种格式的高级文件查看器。](https://www.uvviewsoft.com/uviewer/)
-
-[小米电脑管家非小米笔记本安装补丁](https://www.coolapk.com/feed/57307986?shareKey=ZjE1ZTBhN2Q5ZDBlNjZhMjNjNGU)
-
-
-
 
 
 
@@ -2199,3 +2186,19 @@ QTTabBar ver 1043 文件夹管理器
 Docker Desktop
 QQScreenShot 截图单文件
 GitHubDesktop
+
+
+
+
+
+[最好的 Windows 优化器](https://github.com/hellzerg/optimizer/releases)
+[PowerToys](https://github.com/microsoft/PowerToys/releases)
+[WGestures 2 进阶的鼠标手势](https://www.yingdev.com/projects/wgestures2)
+[Windows11轻松设置](https://www.bilibili.com/opus/904672369138729017)
+[删除 Windows 11 周围各个地方的广告的 GUI 工具](https://github.com/xM4ddy/OFGB/releases)
+[WingetUI 软件管理器](https://github.com/marticliment/UniGetUI/releases)
+
+[Universal Viewer 是一款适用于多种格式的高级文件查看器。](https://www.uvviewsoft.com/uviewer/)
+
+[小米电脑管家非小米笔记本安装补丁](https://www.coolapk.com/feed/57307986?shareKey=ZjE1ZTBhN2Q5ZDBlNjZhMjNjNGU)
+
