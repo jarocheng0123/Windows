@@ -1,0 +1,67 @@
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+  <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+VMware 解锁
+
+补充微信多开脚本
+一个文本/图片打开多个URL链接窗口，在markdown文件中
+过于小众或者文件复杂的或盗版或可能被和谐的软件就不上传了，保留到硬盘中
+
+
+
+
+在markdown备注软件分享网站 破解网站 汉化网站
+
+
+-----------------------------------------------------------------------------------------------------
+
+QQ
+微信
+WPS
+
+-----------------------------------------------------------------------------------------------------
+SW
+TIA
+
+
+
+
+
+
+## 快捷键盘快捷键
+
+QTTabBar ver 1043 文件夹双击
+Quicker 鼠标中键
+QuickLook 空格预览
+ShareX   ctrl+alt+A 截图
+ShareX  ctrl+alt+S OCR识别
+Wox alt+空格 快速搜索
+Ditto  Shift + Enter 剪贴板历史记录管理
+Win + A	打开快速设置
+Win + S	搜索
+Win + E	文件资源管理器
+Win + I	打开设置
+Win + L	锁定电脑
