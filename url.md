@@ -1,3 +1,6 @@
+贴图，贴一张放一个，确保一一对应
+
+
 [定时执行多种Windows管理任务](https://www.wisecleaner.com.cn/wise-auto-shutdown.html)
 [原神](https://ys.mihoyo.com/)
 [iOS任意版本号APP下载](https://www.52pojie.cn/thread-1284776-1-1.html)
@@ -23,6 +26,52 @@
 
 
 [多系统启动Ventoy](https://www.ventoy.net/cn/download.html)
+[Java](https://www.java.com/en/download/)
+[Proteus](https://www.labcenter.com/downloads/)
+[CCleaner](https://www.ccleaner.com/zh-cn/download)
+[Windows 音量控制应用 EarTrumpet](https://apps.microsoft.com/detail/9nblggh516xp?hl=zh-CN&gl=CN)
+[数据恢复 EasyRecovery](https://www.easyrecoverychina.com/xiazai.html)
+[EV录屏](https://www.ieway.cn/evcapture.html)
+[Windows 复制备份软件FastCopy](https://fastcopy.jp/)
+[打开任何文件 FileViewPro](https://www.fileviewpro.com/zh-cn/)
+[FTP客户端 FileZilla](https://www.filezilla.cn/)
+[Windows 修复工具 FixWin 11](https://www.thewindowsclub.com/fixwin-windows-pc-repair-software)
+
+
+
+[Geek卸载程序](https://geekuninstaller.com/)
+[蓝灯](https://github.com/getlantern/download)
+[Google Chrome](https://www.google.cn/chrome/index.html)
+[HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator)
+[HiBit卸载程序](https://www.hibitsoft.ir/)
+[QQ](https://im.qq.com/index/)
+[IDM](https://www.internetdownloadmanager.com/)
+[IObit 解锁器](https://www.iobit.com/en/iobit-unlocker.php)
+[IP 地址修改器](https://kn007.net/topics/ip-address-modifier-5-0-remastered/)
+[MCGS昆仑通态](http://www.iotmcgs.com/?content_355.html)
+[Microsoft Edge](https://www.microsoft.com/zh-cn/edge/download?form=MA13GQ)
+[Windows 系统实用程序 PowerToys](https://github.com/microsoft/PowerToys)
+[Anaconda](https://docs.anaconda.com/miniconda/)
+[侧边栏管理 MyComputerManager](https://github.com/1357310795/MyComputerManager)
+[网络扫描神器 Nmap](https://www.cnblogs.com/yfeil/p/18334269)
+[系统隐私工具 ShutUp10++](https://www.oo-software.com/en/shutup10/update)
+[Opera浏览器](https://www.opera.com/zh-cn)
+[PDF24](https://tools.pdf24.org/zh/creator)
+[PikPak](https://mypikpak.com/zh-CN)
+[信捷电气](https://xinje.com/web/downloadCenter/index)
+
+
+[Potato](https://potato.im/)
+[PotPlayer](http://www.potplayercn.com/)
+[QQ音乐](https://y.qq.com/)
+[QTTabBar](http://qttabbar.wikidot.com/)
+[Quicker工具箱](https://getquicker.net/)
+[QuickLook](https://github.com/QL-Win/QuickLook)
+[ChatGPT 桌面版](https://github.com/lencx/ChatGPT)
+[v2rayN](https://github.com/2dust/v2rayN)
+[clash for windows汉化版](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
+[Windows 优化器 Optimizer](https://github.com/hellzerg/optimizer)
+[USBCopyer](https://github.com/kenvix/USBCopyer)
 []()
 []()
 []()
@@ -40,5 +89,5 @@
 []()
 []()
 []()
-[]()
-[]()
+
+
