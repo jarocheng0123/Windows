@@ -1,5 +1,81 @@
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+  <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    </tr>
+</table>
+
+
+
+
 贴图，贴一张放一个，确保一一对应
 
+VMware 解锁
+
+补充微信多开脚本
+一个文本/图片打开多个URL链接窗口，在markdown文件中
+过于小众或者文件复杂的或盗版或可能被和谐的软件就不上传了，保留到硬盘中
+
+
+
+
+
+
+
+
+
+
+在markdown备注软件分享网站 破解网站 汉化网站
+
+           
+
+
+Docker Desktop
+QQScreenShot 截图单文件
+GitHubDesktop
+
+
+
+
+
+[最好的 Windows 优化器](https://github.com/hellzerg/optimizer/releases)
+[PowerToys](https://github.com/microsoft/PowerToys/releases)
+[WGestures 2 进阶的鼠标手势](https://www.yingdev.com/projects/wgestures2)
+[Windows11轻松设置](https://www.bilibili.com/opus/904672369138729017)
+[删除 Windows 11 周围各个地方的广告的 GUI 工具](https://github.com/xM4ddy/OFGB/releases)
+[WingetUI 软件管理器](https://github.com/marticliment/UniGetUI/releases)
+
+[Universal Viewer 是一款适用于多种格式的高级文件查看器。](https://www.uvviewsoft.com/uviewer/)
+
+[小米电脑管家非小米笔记本安装补丁](https://www.coolapk.com/feed/57307986?shareKey=ZjE1ZTBhN2Q5ZDBlNjZhMjNjNGU)
+
+
+
+[Quick Any2Ico图标提取](https://www.52pojie.cn/thread-1883489-1-1.html)
+
+[PYC](https://plugins.jetbrains.com/plugin/13710-chinese-simplified-language-pack----)
+
+[VS](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+[VS](https://marketplace.visualstudio.com/items?itemName=Tencent-Cloud.coding-copilot)
+[VS](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)
+
+[联想知识库](https://iknow.lenovo.com.cn/tool)
+[sordum](https://www.sordum.org/)
+[软件汉化和资源分享](http://www.th-sjy.com/?__K=1a1008bc544361f2835730d2ce35c04571757581442_35231)
+
+[TIA Portal V20](https://mp.weixin.qq.com/s/6akbmzTpM1busva7ZL9JRg)
 
 [定时执行多种Windows管理任务](https://www.wisecleaner.com.cn/wise-auto-shutdown.html)
 [原神](https://ys.mihoyo.com/)
@@ -202,7 +278,7 @@
 
 
 [重复文件搜索](https://malich.ru/duplicate_searcher#download)
-[]()
+[QTTabBar](https://github.com/indiff/qttabbar)
 []()
 []()
 []()
