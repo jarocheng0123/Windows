@@ -1,3 +1,84 @@
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/exe/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/exe/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/exe/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/exe/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+贴图，贴一张放一个，确保一一对应
+
+VMware 解锁
+
+补充微信多开脚本
+一个文本/图片打开多个URL链接窗口，在markdown文件中
+过于小众或者文件复杂的或盗版或可能被和谐的软件就不上传了，保留到硬盘中
+
+
+
+
+
+
+
+
+
+
+在markdown备注软件分享网站 破解网站 汉化网站
+
+           
+
+
+Docker Desktop
+QQScreenShot 截图单文件
+GitHubDesktop
+
+
+
 ## bios 配置
 
 CPU 虚拟化
@@ -75,18 +156,45 @@ Password@123
 
 ### **一、硬件检测与性能测试**
 - **硬件信息与性能测试**：
-- 鲁大师电脑版、图吧工具箱、电脑配置一键读取v2.0、AIDA64  
 
 
-[图吧工具箱](https://www.tubatool.com/)
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://www.tubatool.com/">
+        <img src="png/exe/图吧工具箱.png" width="80">
+        <br>
+        <span>图吧工具箱</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.aida64.com/downloads">
+        <img src="png/exe/AIDA64.png" width="80">
+        <br>
+        <span>AIDA64</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.ludashi.com/">
+        <img src="png/exe/鲁大师.png" width="80">
+        <br>
+        <span>鲁大师</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.52pojie.cn/thread-1760171-1-1.html">
+        <img src="png/exe/电脑配置读取v2.0.png" width="80">
+        <br>
+        <span>电脑配置一键读取v2.0</span>
+      </a>
+    </td>
+    </tr>
+</table>
 
 
-[AIDA64](https://www.aida64.com/downloads)
-
-[鲁大师电脑版](https://www.ludashi.com/)
 
 
-[电脑配置一键读取v2.0](https://www.52pojie.cn/thread-1760171-1-1.html)
+
 
 
 - **硬件辅助工具**：
