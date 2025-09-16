@@ -846,27 +846,290 @@
 
 
 - **硬件辅助工具**：
-- 360U盘鉴定器独立版、NTFS 驱动器保护、U盘权限设置工具、USBCopyer.Release  
 
-[Windows上最快的复制/备份软件](https://fastcopy.jp/)
+
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://www.sordum.org/8117/ntfs-drive-protection-v1-5/">
+        <img src="png/U盘管理/Ntfs Drive Protection-硬盘驱动保护.png" width="80">
+        <br>
+        <span>NTFS 驱动器保护</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://github.com/kenvix/USBCopyer">
+        <img src="png/U盘管理/USBCopyer - 插入 U 盘后自动复制文件.png" width="80">
+        <br>
+        <span>USBCopyer</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.sordum.org/8104/ratool-v1-4-removable-access-tool/">
+        <img src="png/U盘管理/Ratool-USB 设备权限管理.png" width="80">
+        <br>
+        <span>Ratool</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    </tr>
+</table>
+
+
+
 
 
 ### **二、系统文件备份与文件操作**
 - **高速文件备份/复制**：
-- Windows上最快的复制/备份软件fastcopy、文件极速拷贝工具FastCopy64、Fastcopy、备份恢复工具CGI-plus5.0.0.7x86_x64_自适应  
+
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://fastcopy.jp/">
+        <img src="png/文件备份/Fastcopy - 高速文件复制与备份工具.png" width="80">
+        <br>
+        <span>FastCopy</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://freefilesync.org/">
+        <img src="png/文件备份/FreeFileSync-文件夹比较和同步软件.png" width="80">
+        <br>
+        <span>FreeFileSync文件夹同步</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    </tr>
+</table>
+
+
 
 - **文件管理辅助**：
-- 文件解锁工具_IObit Unlocker、IObit Unlocker、文件解锁工具IObitUnlocker、文件强删工具_Wise Force Delete  
-[文件解锁工具_IObit Unlocker](https://www.iobit.com/en/iobit-unlocker.php)
+
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://www.iobit.com/en/iobit-unlocker.php">
+        <img src="png/文件管理/IObit Unlocker - 强制解锁被占用或权限受限的文件与文件夹.png" width="80">
+        <br>
+        <span>解锁被占用文件</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.wisecleaner.com.cn/wise-force-deleter.html">
+        <img src="png/文件管理/Wise Force Deleter-文件解锁和强制删除工具.png" width="80">
+        <br>
+        <span>解锁被占用文件</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    </tr>
+</table>
+
+
+
 - **批量文件处理**：
-- 批量文件重命名Bulk_Rename_Utility、Bulk Rename、批量文件重命名Bulk Rename Utility  
-[批量文件重命名Bulk_Rename_Utility](https://www.yrxitong.com/h-nd-859.html)
+
+
+
+
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://www.yrxitong.com/h-nd-859.html">
+        <img src="png/文件管理/Bulk Rename - 高度自定义的文件批量重命名工具.png" width="80">
+        <br>
+        <span>批量重命名</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
 - **文件同步与对比**：
-- 文件同步freefilesync、Beyond Compare、BCompare文本文件对比工具  
+
+
+
+
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://www.beyondcomparepro.com/">
+        <img src="png/文件管理/Beyond Compare - 文件与文件夹的差异比较、合并与同步工具.png" width="80">
+        <br>
+        <span>文件对比工具</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.diffchecker.com/zh-Hans/">
+        <img src="png/文件管理/Diffchecker - 在线对比工具.png" width="80">
+        <br>
+        <span>Diffchecker在线对比工具</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
 
 - **文件查找与预览**：
-- Everything、Everything文件快速搜索、Anytxt全文搜索工具、listary搜索和应用启动  
-[Everything](https://www.voidtools.com/zh-cn/downloads/)
+
+
+
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://www.voidtools.com/zh-cn/downloads/">
+        <img src="png/文件管理/Everything.png" width="80">
+        <br>
+        <span>Everything</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.anytxt.net.cn/download.html">
+        <img src="png/文件管理/Anytxt-文档搜索引擎.png" width="80">
+        <br>
+        <span>Anytxt文档搜索</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
 - **通用文件查看**：
 - Universal File Viewer通用文件查看器、Universal Viewer 是一款适用于多种格式的高级文件查看器、万能文件查看器Viewer、QuickLook、QuickLook桌面快速预览、QQ截图提取版  
 
@@ -1729,7 +1992,7 @@ ChatGPT 桌面版 https://github.com/lencx/ChatGPT
 v2rayN https://github.com/2dust/v2rayN
 clash for windows汉化版 https://github.com/Z-Siqi/Clash-for-Windows_Chinese
 Windows 优化器 Optimizer https://github.com/hellzerg/optimizer
-USBCopyer https://github.com/kenvix/USBCopyer
+
 RobotStudio https://new.abb.com/products/robotics/zh/software-and-digital/robotstudio
 安卓玩机工具箱 https://shaw99.github.io/
 
@@ -1831,7 +2094,7 @@ Everything https://www.voidtools.com/zh-cn/downloads/
 
 AutoCAD https://www.autodesk.com.cn/products/autocad/free-trial
 K-Lite 编解码器 https://codecguide.com/download_kl.htm
-NTFS 驱动器保护 https://www.sordum.org/8117/ntfs-drive-protection-v1-5/
+
 PyCharm https://www.jetbrains.com/pycharm/download/#section=windows
 Visual Studio https://visualstudio.microsoft.com/zh-hans/downloads/
 RoboDK https://robodk.com.cn/cn/download
