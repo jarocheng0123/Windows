@@ -2125,3 +2125,8 @@ Firefox 浏览器 https://www.mozilla.org/zh-CN/firefox/features/
 重复文件搜索 https://malich.ru/duplicate_searcher#download
 QTTabBar https://github.com/indiff/qttabbar
  
+
+
+ ZyperWin++  https://github.com/ZyperWave/ZyperWinOptimize/tree/main
+
+ FFmpegFreeUI  https://github.com/Lake1059/FFmpegFreeUI
