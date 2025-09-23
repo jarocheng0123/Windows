@@ -138,6 +138,32 @@ UAC窗口
 
 当按住CTRL键时显示鼠标指针位置
 
+sudo dpkg -i code_1.104.0-1757488003_amd64.deb 
+/pycharm-2025.2.1.1/bin$ ./pycharm.sh 
+
+
+
+创建 PyCharm 快捷方式
+1
+2
+3
+在 Linux 系统中，安装完 PyCharm 后，可以通过创建快捷方式来方便启动。
+
+方法一：使用 PyCharm 自带功能
+
+打开 PyCharm。
+
+在菜单栏中选择 Tools -> Create Desktop Entry...。
+
+根据提示完成创建。
+
+# 打开 PyCharm
+/pycharm.sh
+
+# 创建桌面条目
+Tools -> Create Desktop Entry
+
+
 
 
 Windows 重装系统国家选择美国/欧盟
