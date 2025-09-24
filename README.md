@@ -32,12 +32,225 @@
 </table>
 
 
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+
+tree /f /a
+
+原名在前，属性在后
+
+
+软件名称 - 软件核心功能  的格式输出
+
+在markdown备注软件分享网站 破解网站 汉化网站
+ 
+贴图，贴一张放一个，确保一一对应
+
+VMware 解锁
+
+补充微信多开脚本
+一个文本/图片打开多个URL链接窗口，在markdown文件中
+过于小众或者文件复杂的或盗版或可能被和谐的软件就不上传了，保留到硬盘中
+
+
+
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+交流论坛
+
+https://msdn.itellyou.cn/
+https://www.dayanzai.me/
+https://www.52pojie.cn/
+
+
+
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+账号密码
+
+
+
+
+TIA
+[VMware 工作站专业版](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
+```bash
+1135604098@qq.com
+Password@123
+```
 
 
 
 
 
 
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+系统安装
+
+Windows 重装系统国家选择美国/欧盟
+
+
+## bios 配置
+
+CPU 虚拟化
+安全模式
+开盖启动
+引导模式
+
+
+
+
+## 系统分盘
+
+
+
+系统盘（C:300）C 系统
+软件盘（D:300）D 软件安装路径 TIA fanuc 2345破解版 迅雷破解版（避免C盘安装请求权限问题） 在 D 盘创建 "Program Files" 和 "Program Files (x86)" 目录，模拟默认安装路径
+资源库（E:200）E 安装包/镜像/文件夹背景图(固定文件)/VMware打包镜像/IDM配置文件，激活文件/VM限制解锁/VMtools/PE软件
+数据盘（F:130）F 文件/共享文件夹/VMware虚拟机
+
+## 重装系统
+Windows  专业工作站版
+不要使用中文名
+关闭隐私
+修改oobe
+
+## 文件
+
+
+Windows 镜像
+PE 镜像
+
+
+
+[创建 Windows 10 安装媒体](https://www.microsoft.com/zh-cn/software-download/windows10)
+
+[创建 Windows 11 安装媒体](https://www.microsoft.com/zh-cn/software-download/windows11?msockid=29d1afb24e32636214bbba6e4f1f6205)
+
+
+
+
+
+
+
+
+
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————
+系统设置
+
+C:\Users 固定
+开机自启文件夹
+clash verge文件夹
+苹果备份路径
+浏览器垂直标签
+
+
+系统激活
+驱动
+更新系统 商店
+关闭磁盘锁BitLocker
+传递优化
+自动更新
+防篡改 时实扫描
+(关闭)安全中心 防火墙
+
+UAC窗口
+关闭系统广告
+关闭浏览器广告
+电源键 开合盖 睡眠模式 快速启动
+
+控制面板-Windows程序-安装
+.net 3.5
+安卓子系统
+
+当按住CTRL键时显示鼠标指针位置
+
+
+
+
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————
+软件 安装表
+
+
+
+
+ROBOGUIDE>TIA >SOLIDWORK
+
+
+
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+破解软件
+
+
+微信双开脚本
+小米生态两个版本
+
+
+
+
+
+
+
+
+
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————
+python 安装
+
+
+
+<img src="png/python/python1.png"  width="500">
+
+<img src="png/python/python2.png"  width="500">
+
+<img src="png/python/python3.png"  width="500">
+
+<img src="png/python/python4.png"  width="500">
+
+<img src="png/python/python5.png"  width="500">
+
+<img src="png/python/python6.png"  width="500">
+
+<img src="png/python/python7.png"  width="500">
+
+<img src="png/python/python8.png"  width="500">
+
+
+
+
+
+
+
+
+
+
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————
+配置设置
+
+
+
+
+
+IDM文件类型
+```bash
+3GP 7Z AAC ACE AIF APK ARJ ASF AVI BIN BZ2 EXE GZ GZIP IMG ISO LZH M4A M4V MKV MOV MP3 MP4 MPA MPE MPEG MPG MSI MSU OGG OGV PDF PLJ PPS PPT QT R0* R1* RA RAR RM RMVB SEA SIT SITX TAR TIF TIFF WAV WMA WMV Z ZIP 3GP 7Z AAC ACE AI AIF ALZ APK APP ARC ARJ ASF AVI BH BIN BR BUNDLE BZ BZ2 CDA CSV DIF DLL DMG DOC DOCX EGG EPS EXE FLV GZ GZIP IMG IPA ISO ISZ JAR KEXT LHA LZ LZH LZMA M4A M4V MDB MID MKV MOV MP3 MP4 MPA MPE MPEG MPG MSI MSU MUI OGG OGV PDF PKG PPT PPTX PSD PST PUB QT R0* R1* RA RAR RM RMVB RTF SEA SIT SITX SLDM SLDX TAR TBZ TBZ2 TGZ TIF TIFF TLZ TXZ UDF VOB VSD VSDM VSDX VSS VSSM VST VSTM VSTX WAR WAV WBK WIM WKS WMA WMD WMS WMV WMZ WP5 WPD WPS XLS XLSX XPS XZ Z ZIP ZIPX ZPAQ ZSTD
+```
+
+
+
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 
 ### **拓展脚本下载**  
@@ -1381,10 +1594,7 @@ clash-verge  （虚拟网卡模式 关闭开机自启 静默启动）
 
 
 
-IDM文件类型
-```bash
-3GP 7Z AAC ACE AIF APK ARJ ASF AVI BIN BZ2 EXE GZ GZIP IMG ISO LZH M4A M4V MKV MOV MP3 MP4 MPA MPE MPEG MPG MSI MSU OGG OGV PDF PLJ PPS PPT QT R0* R1* RA RAR RM RMVB SEA SIT SITX TAR TIF TIFF WAV WMA WMV Z ZIP 3GP 7Z AAC ACE AI AIF ALZ APK APP ARC ARJ ASF AVI BH BIN BR BUNDLE BZ BZ2 CDA CSV DIF DLL DMG DOC DOCX EGG EPS EXE FLV GZ GZIP IMG IPA ISO ISZ JAR KEXT LHA LZ LZH LZMA M4A M4V MDB MID MKV MOV MP3 MP4 MPA MPE MPEG MPG MSI MSU MUI OGG OGV PDF PKG PPT PPTX PSD PST PUB QT R0* R1* RA RAR RM RMVB RTF SEA SIT SITX SLDM SLDX TAR TBZ TBZ2 TGZ TIF TIFF TLZ TXZ UDF VOB VSD VSDM VSDX VSS VSSM VST VSTM VSTX WAR WAV WBK WIM WKS WMA WMD WMS WMV WMZ WP5 WPD WPS XLS XLSX XPS XZ Z ZIP ZIPX ZPAQ ZSTD
-```
+
 
 
 - **看图与多媒体**：
@@ -2184,34 +2394,12 @@ bandizip v6.29官方链接 直接下载
 
 
 
-补充破解软件
-
-
-微信双开脚本
-小米生态两个版本
 
 
 
 
-C:\Users 固定
-开机自启文件夹
-clash verge文件夹
-苹果备份路径
-浏览器垂直标签
-原名在前，属性在后
 
 
-软件名称 - 软件核心功能  的格式输出
-
-在markdown备注软件分享网站 破解网站 汉化网站
- 
-贴图，贴一张放一个，确保一一对应
-
-VMware 解锁
-
-补充微信多开脚本
-一个文本/图片打开多个URL链接窗口，在markdown文件中
-过于小众或者文件复杂的或盗版或可能被和谐的软件就不上传了，保留到硬盘中
 
 
 
@@ -2228,107 +2416,25 @@ GitHubDesktop
 
 
 
-## bios 配置
-
-CPU 虚拟化
-安全模式
-开盖启动
-引导模式
 
 
 
 
-## 系统分盘
-
-
-
-系统盘（C:300）C 系统
-软件盘（D:300）D 软件安装路径 TIA fanuc 2345破解版 迅雷破解版（避免C盘安装请求权限问题） 在 D 盘创建 "Program Files" 和 "Program Files (x86)" 目录，模拟默认安装路径
-资源库（E:200）E 安装包/镜像/文件夹背景图(固定文件)/VMware打包镜像/IDM配置文件，激活文件/VM限制解锁/VMtools/PE软件
-数据盘（F:130）F 文件/共享文件夹/VMware虚拟机
-
-## 文件
-
-
-Windows 镜像
-PE 镜像
-
-
-
-[创建 Windows 10 安装媒体](https://www.microsoft.com/zh-cn/software-download/windows10)
-
-[创建 Windows 11 安装媒体](https://www.microsoft.com/zh-cn/software-download/windows11?msockid=29d1afb24e32636214bbba6e4f1f6205)
-
-## 重装系统
-Windows  专业工作站版
-不要使用中文名
-关闭隐私
-修改oobe
-系统激活
-驱动
-更新系统 商店
-关闭磁盘锁BitLocker
-传递优化
-自动更新
-防篡改 时实扫描
-(关闭)安全中心 防火墙
-
-UAC窗口
-关闭系统广告
-关闭浏览器广告
-电源键 开合盖 睡眠模式 快速启动
-
-控制面板-Windows程序-安装
-.net 3.5
-安卓子系统
-
-当按住CTRL键时显示鼠标指针位置
-
-sudo dpkg -i code_1.104.0-1757488003_amd64.deb 
-/pycharm-2025.2.1.1/bin$ ./pycharm.sh 
-
-
-
-创建 PyCharm 快捷方式
-1
-2
-3
-在 Linux 系统中，安装完 PyCharm 后，可以通过创建快捷方式来方便启动。
-
-方法一：使用 PyCharm 自带功能
-
-打开 PyCharm。
-
-在菜单栏中选择 Tools -> Create Desktop Entry...。
-
-根据提示完成创建。
-
-# 打开 PyCharm
-/pycharm.sh
-
-# 创建桌面条目
-Tools -> Create Desktop Entry
 
 
 
 
-Windows 重装系统国家选择美国/欧盟
-
-ROBOGUIDE>TIA >SOLIDWORK
-
-
-
-TIA
-[VMware 工作站专业版](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
-```bash
-1135604098@qq.com
-Password@123
-```
 
 
 
 
-tree /f /a
+
+
+
+
+
+
+
 
 
 
@@ -2338,6 +2444,3 @@ https://www.52pojie.cn/thread-1982136-1-1.html
 
 https://www.dayanzai.me/realvnc-viewer.html
 
-https://msdn.itellyou.cn/
-https://www.dayanzai.me/
-https://www.52pojie.cn/
