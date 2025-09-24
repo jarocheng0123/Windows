@@ -64,8 +64,8 @@ VMware 解锁
 https://msdn.itellyou.cn/
 https://www.dayanzai.me/
 https://www.52pojie.cn/
-
-
+https://www.coolexe.com/
+https://www.appinn.com/
 
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————
@@ -2444,3 +2444,4 @@ https://www.52pojie.cn/thread-1982136-1-1.html
 
 https://www.dayanzai.me/realvnc-viewer.html
 
+https://www.xm-soft.cn/copyname/
