@@ -966,21 +966,21 @@
 
 
 
-- **文件管理辅助**：
+- **文件权限解锁**：
 
 
 <table>
   <tr>
     <td style="text-align: center;">
       <a href="https://www.iobit.com/en/iobit-unlocker.php">
-        <img src="png/文件管理/IObit Unlocker - 强制解锁被占用或权限受限的文件与文件夹.png" width="80">
+        <img src="png/文件权限/IObit Unlocker - 强制解锁被占用或权限受限的文件与文件夹.png" width="80">
         <br>
         <span>解锁被占用文件</span>
       </a>
     </td>
     <td style="text-align: center;">
       <a href="https://www.wisecleaner.com.cn/wise-force-deleter.html">
-        <img src="png/文件管理/Wise Force Deleter-文件解锁和强制删除工具.png" width="80">
+        <img src="png/文件权限/Wise Force Deleter-文件解锁和强制删除工具.png" width="80">
         <br>
         <span>解锁被占用文件</span>
       </a>
