@@ -235,6 +235,11 @@ python 安装
 
 <img src="png/python/python7.png"  width="500">
 
+```cmd
+py -0
+```
+
+
 <img src="png/python/python8.png"  width="500">
 
 
@@ -1138,13 +1143,6 @@ IDM文件类型
         <span>Ratool</span>
       </a>
     </td>
-    <td style="text-align: center;">
-      <a href="链接">
-        <img src="png/路径/图片.png" width="80">
-        <br>
-        <span>名称</span>
-      </a>
-    </td>
     </tr>
 </table>
 
@@ -1172,20 +1170,6 @@ IDM文件类型
         <span>FreeFileSync文件夹同步</span>
       </a>
     </td>
-    <td style="text-align: center;">
-      <a href="链接">
-        <img src="png/路径/图片.png" width="80">
-        <br>
-        <span>名称</span>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="链接">
-        <img src="png/路径/图片.png" width="80">
-        <br>
-        <span>名称</span>
-      </a>
-    </td>
     </tr>
 </table>
 
@@ -1210,20 +1194,6 @@ IDM文件类型
         <span>解锁被占用文件</span>
       </a>
     </td>
-    <td style="text-align: center;">
-      <a href="链接">
-        <img src="png/路径/图片.png" width="80">
-        <br>
-        <span>名称</span>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="链接">
-        <img src="png/路径/图片.png" width="80">
-        <br>
-        <span>名称</span>
-      </a>
-    </td>
     </tr>
 </table>
 
@@ -1242,27 +1212,6 @@ IDM文件类型
         <img src="png/文件管理/Bulk Rename - 高度自定义的文件批量重命名工具.png" width="80">
         <br>
         <span>批量重命名</span>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="链接">
-        <img src="png/路径/图片.png" width="80">
-        <br>
-        <span>名称</span>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="链接">
-        <img src="png/路径/图片.png" width="80">
-        <br>
-        <span>名称</span>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="链接">
-        <img src="png/路径/图片.png" width="80">
-        <br>
-        <span>名称</span>
       </a>
     </td>
     </tr>
@@ -1298,20 +1247,6 @@ IDM文件类型
         <span>Diffchecker在线对比工具</span>
       </a>
     </td>
-    <td style="text-align: center;">
-      <a href="链接">
-        <img src="png/路径/图片.png" width="80">
-        <br>
-        <span>名称</span>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="链接">
-        <img src="png/路径/图片.png" width="80">
-        <br>
-        <span>名称</span>
-      </a>
-    </td>
     </tr>
 </table>
 
@@ -1343,21 +1278,7 @@ IDM文件类型
         <span>Anytxt文档搜索</span>
       </a>
     </td>
-    <td style="text-align: center;">
-      <a href="链接">
-        <img src="png/路径/图片.png" width="80">
-        <br>
-        <span>名称</span>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="链接">
-        <img src="png/路径/图片.png" width="80">
-        <br>
-        <span>名称</span>
-      </a>
-    </td>
-    </tr>
+   </tr>
 </table>
 
 
