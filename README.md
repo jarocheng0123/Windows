@@ -95,6 +95,18 @@ Password@123
 Windows 重装系统国家选择美国/欧盟
 
 
+系统引导方式
+BIOS
+UEFI
+
+磁盘格式
+NTFS
+ext4
+
+配置
+GPT
+MBR
+
 ## bios 配置
 
 CPU 虚拟化
@@ -2445,3 +2457,28 @@ https://www.52pojie.cn/thread-1982136-1-1.html
 https://www.dayanzai.me/realvnc-viewer.html
 
 https://www.xm-soft.cn/copyname/
+
+
+
+
+https://github.com/zetaloop/OFGB?tab=readme-ov-file
+
+https://github.com/BlackINT3/OpenArk
+https://www.appinn.com/openark/
+https://www.appinn.com/opentrace/
+https://www.bigbangenterprises.de/en/doublekiller/
+https://pcmanager.microsoft.com/zh-cn?channel=10000
+
+
+
+https://www.airportal.cn/
+https://www.wenshushu.cn/
+https://easychuan.cn/
+
+
+https://webnote.cc/
+https://gotool.top/text/transfertxt
+
+
+
+https://text.yecss.com/#:~:text=%F0%9F%90%B3%E6%8F%8F%E8%BF%B0%EF%BC%9A%E6%88%91%E4%BB%AC%E5%B8%B8%E5%B8%B8%E9%81%87%E5%88%B0%E8%BF%99%E6%A0%B7%E7%9A%84%E6%83%85%E5%86%B5%EF%BC%9A%E6%83%B3%E8%A6%81%E5%B0%86%E6%89%8B%E6%9C%BA%E4%B8%8A%E7%9A%84%E4%B8%80%E6%AE%B5%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%E5%88%B0%E7%94%B5%E8%84%91%EF%BC%8C%E9%80%9A%E5%B8%B8%E7%9A%84%E6%93%8D%E4%BD%9C%E6%98%AF%E5%A4%8D%E5%88%B6%E6%96%87%E6%9C%AC%E3%80%81%E6%89%93%E5%BC%80%E5%BE%AE%E4%BF%A1%E3%80%81%E7%B2%98%E8%B4%B4%E5%B9%B6%E5%8F%91%E9%80%81%E5%88%B0%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%EF%BC%8C%E7%84%B6%E5%90%8E%E5%86%8D%E5%9C%A8%E7%94%B5%E8%84%91%E4%B8%8A%E6%8E%A5%E6%94%B6%E3%80%82,%E7%8E%B0%E5%9C%A8%EF%BC%8C%E6%97%A0%E9%9C%80%E5%86%8D%E6%89%93%E5%BC%80%E5%BE%AE%E4%BF%A1%EF%BC%8C%E5%8F%AA%E9%9C%80%E8%AE%BF%E9%97%AE%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%EF%BC%8C%E5%B0%B1%E8%83%BD%E8%BD%BB%E6%9D%BE%E5%AE%8C%E6%88%90%E6%96%87%E6%9C%AC%E4%BC%A0%E8%BE%93%EF%BC%81
