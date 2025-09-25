@@ -61,12 +61,52 @@ VMware 解锁
 
 交流论坛
 
-https://msdn.itellyou.cn/
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://msdn.itellyou.cn/">
+        <img src="png/0/itellyou.png" width="80">
+        <br>
+        <span>MSDN 我告诉你</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="链接">
+        <img src="png/路径/图片.png" width="80">
+        <br>
+        <span>名称</span>
+      </a>
+    </td>
+    </tr>
+</table>
+
+
+
+
+
+
+https://www.landiannews.com/
+https://www.52pojie.cn/
+https://www.ghxi.com/
 https://www.dayanzai.me/
 https://www.52pojie.cn/
 https://www.coolexe.com/
 https://www.appinn.com/
-
+https://www.yrxitong.com/
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
