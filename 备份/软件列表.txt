@@ -1,0 +1,2145 @@
+├─Windows
+│  ├─U盘磁盘管理
+│  │  │  360U盘鉴定器独立版.exe
+│  │  │  DiskGenius_Pro_v5.4.6.1441_x64_免安装PRO.exe
+│  │  │  DiskGenius_Pro_v5.4.6.1441_x86_免安装PRO.exe
+│  │  │  NTFS 驱动器保护.exe
+│  │  │  PAGreen.zip
+│  │  │  Ratool (Removable Access tool).url
+│  │  │  Releases · kenvix-USBCopyer.url
+│  │  │  SpaceSniffer(磁盘空间分析工具)官方下载_SpaceSniffer(磁盘空间分析工具)最新版免费下载_3DM软件.url
+│  │  │  USBCopyer.Release.exe
+│  │  │  U盘权限设置工具.exe
+│  │  │  下载 Ntfs 驱动器保护 v1.5.url
+│  │  │  下载分区助手.url
+│  │  │  分区助手.exe
+│  │  │  数据恢复软件,硬盘分区工具,系统备份软件 - DiskGenius官方网站.url
+│  │  │  磁盘空间分析器(SpaceSniffer)1.3.0.2汉化版.exe
+│  │  │  
+│  │  └─LLFTOOL磁盘低格
+│  │          LLFTOOL.EXE
+│  │          llftool.license
+│  │          
+│  ├─windows制作安装
+│  │  ├─BOOTICE引导扇区修复工具
+│  │  │      BOOTICE_x64.exe
+│  │  │      BOOTICE下载-BOOTICE引导扇区修复工具 1.3.4中文版下载-Win7系统之家.url
+│  │  │      
+│  │  ├─CGI备份恢复
+│  │  │      备份恢复工具CGI-plus5.0.0.7x86_x64_自适应.exe
+│  │  │      
+│  │  ├─Dism++系统优化工具
+│  │  │      Dism++ - 全新的 Windows 实用工具.url
+│  │  │      Dism++.exe
+│  │  │      Dism++10.1.1002.1.zip
+│  │  │      
+│  │  ├─SnapShot系统热备份
+│  │  │      snapshot.exe
+│  │  │      snapshot64.exe
+│  │  │      Snapshot备份还原x64.exe
+│  │  │      Snapshot备份还原x86.exe
+│  │  │      Snapshot备份还原自适应.exe
+│  │  │      
+│  │  ├─ventoy启动U盘
+│  │  │      Download . Ventoy.url
+│  │  │      ventoy-1.0.89.zip
+│  │  │      
+│  │  ├─WePE
+│  │  │      WePE_64_V2.3.exe
+│  │  │      WePE_64_V2.3.iso
+│  │  │      微PE工具箱 - 下载.url
+│  │  │      
+│  │  ├─WinNTSetup系统安装程序
+│  │  │      WinNTSetup 5.3.0 官方正式绿色版&单文件版 - 『精品软件区』 - 吾爱破解 - LCG - LSG -安卓破解-病毒分析-www.52pojie.cn.url
+│  │  │      WinNTSetup-5.3-x64.exe
+│  │  │      WinNTSetup_v530.rar
+│  │  │      温特设置 v4.6.3.1 - 从 USB 安装 Windows - 无国界医生组织.url
+│  │  │      
+│  │  ├─WTG傲梅口袋系统
+│  │  │      WinToGo.exe
+│  │  │      口袋系统WinToGo- 安装Win 10到U盘.url
+│  │  │      
+│  │  ├─优启通
+│  │  │      EasyU_v3.7.iso
+│  │  │      优启通EasyU_3.7.2023.1206.exe
+│  │  │      优启通小鱼儿yr定制版.url
+│  │  │      
+│  │  └─萝卜头IT论坛
+│  │          Windows To Go优盘系统 - 萝卜头IT论坛 - Powered by Discuz!.url
+│  │          wtga5610.zip
+│  │          WTG辅助工具高级选项说明（2020.5.27更新） - Windows To Go优盘系统 - 萝卜头IT论坛 - Powered by Discuz!.url
+│  │          
+│  ├─windows激活更新安全中心
+│  │      HEU_KMS_Activator_v42.3.0.exe
+│  │      HEU_KMS_Activator密码9xum.url
+│  │      MediaCreationTool22H2.exe
+│  │      Release HEU_KMS_Activator_v30.2.0 · zbezj-HEU_KMS_Activator.url
+│  │      Win10版本一键转换.exe
+│  │      Windows Update Blocker v1.7.url
+│  │      Windows11 优化.zip
+│  │      Windows实用设置工具.exe
+│  │      一键禁用卸载Windows Defender1.1.exe
+│  │      关闭微软安全中心.exe
+│  │      小鱼儿yr系统封装优化设置辅助工具V2.11.4.exe
+│  │      查看系统密钥工具V2.90.1.exe
+│  │      禁止系统更新工具.exe
+│  │      蓝屏分析工具BlueScreenView.exe
+│  │      软媒设置大师.exe
+│  │      防御者控制 v2.1.url
+│  │      
+│  ├─windows账户
+│  │      NTPWEdit_x64.exe
+│  │      NTPWEdit_x86.exe
+│  │      windows 系统密码修改工具V2.27.1.exe
+│  │      Windows密码修改v1.6.exe
+│  │      快速用户管理器(Quick User Manager)2.2.0.0汉化版.exe
+│  │      系统新建账户工具.EXE
+│  │      
+│  ├─windows运行库
+│  │      en_.net_framework_3.5_service_pack_1_x86_x64_ia64.exe
+│  │      微软常用运行库合集v2021.07.15.1.exe
+│  │      微软常用运行库合集v2021.07.15.exe
+│  │      微软常用运行库合集v2021.08.02.exe
+│  │      微软常用运行库合集v2023.02.02.exe
+│  │      微软常用运行库合集v2023.02.22.exe
+│  │      
+│  ├─windows隐私防火墙
+│  │  │  privatezilla隐私优化程序.zip
+│  │  │  
+│  │  ├─NetDisabler一键网络禁用器
+│  │  │      NetDisabler.exe
+│  │  │      NetDisabler.ini
+│  │  │      NetDisabler_x64.exe
+│  │  │      网络禁用器 v1.1 -.url
+│  │  │      
+│  │  ├─Optimizer系统优化工具
+│  │  │      Optimizer-15.2.exe
+│  │  │      Releases · hellzerg-optimizer.url
+│  │  │      
+│  │  ├─Windows轻松设置 v1.08
+│  │  │  │  Windows轻松设置.exe
+│  │  │  │  
+│  │  │  └─data
+│  │  │      │  DisableWD.bat
+│  │  │      │  EnableWD.bat
+│  │  │      │  MinSudo.exe
+│  │  │      │  readme.txt
+│  │  │      │  
+│  │  │      └─smartscreen
+│  │  │              disable.reg
+│  │  │              restore.reg
+│  │  │              
+│  │  ├─Win隐私优化WPD_1.5.2042_Green
+│  │  │      Constructor.json
+│  │  │      Localization.json
+│  │  │      WPD -适用于 Windows 的隐私仪表板.url
+│  │  │      WPD.exe
+│  │  │      
+│  │  ├─用户权限隐私OOSU10
+│  │  │      O&O ShutUp10++ – 新版本可用.url
+│  │  │      用户权限隐私OOSU10.exe
+│  │  │      
+│  │  ├─禁止软件联网Firewall App Blocker
+│  │  │      Fab.exe
+│  │  │      Fab.ini
+│  │  │      Fab_x64.exe
+│  │  │      Read_me.txt
+│  │  │      下载防火墙应用程序拦截器 v1.9.url
+│  │  │      
+│  │  ├─系统服务工具Eso
+│  │  │      Easy Service Optimizer v1.2.url
+│  │  │      eso.exe
+│  │  │      eso.ini
+│  │  │      
+│  │  └─防火墙工具FortFirewall
+│  │          Releases · tnodir-fort.url
+│  │          防火墙工具FortFirewall_3.8.0_Setup.exe
+│  │          
+│  ├─安全防护
+│  │  ├─ccleaner清理优化
+│  │  │      ccsetup610.exe
+│  │  │      Download.url
+│  │  │      
+│  │  ├─Geek卸载程序
+│  │  │      Geek Uninstaller - the best FREE uninstaller.url
+│  │  │      geek.exe
+│  │  │      
+│  │  ├─HiBit卸载程序
+│  │  │      HiBit Uninstaller_v2.7.62中文绿色单文件版.exe
+│  │  │      HiBit.url
+│  │  │      HiBitUninstaller-Portable.exe
+│  │  │      HiBitUninstaller-setup-3.0.25.exe
+│  │  │      
+│  │  ├─Windows超级管理器
+│  │  │      Windows超级管理器9.44.exe
+│  │  │      Windows超级管理器9.45.exe
+│  │  │      Windows超级管理器9.46.exe
+│  │  │      
+│  │  ├─WiseCare365电脑管家
+│  │  │      Wise Care 365 - Stabilize, Secure and Speed Up Slow Windows PC-Laptop with One Click!.url
+│  │  │      WiseCare365_6.5.2.624.exe
+│  │  │      WiseCare365_v6.5.1.623中文破解版.exe
+│  │  │      
+│  │  ├─火绒安全
+│  │  │      sysdiag-all-x64-6.0.2.1-2024.09.13.1.exe
+│  │  │      sysdiag-full-5.0.73.3-2023.03.21.1.exe
+│  │  │      火绒安全.url
+│  │  │      
+│  │  ├─联想电脑管家
+│  │  │      lenovopcmanager_apps.exe
+│  │  │      联想电脑_电脑管家_弹窗拦截_杀毒软件_垃圾清理__一键驱动管理__联想官方客服__联想电脑管家官网_-.url
+│  │  │      
+│  │  └─腾讯电脑管家纯净版
+│  │          QQPCDownload1383.exe
+│  │          病毒攻击防护软件下载_一键清理系统垃圾_文档保护,文档安全-腾讯电脑管家官网.url
+│  │          
+│  └─驱动exe
+│          360驱动大师 2.0.0.1760.exe
+│          EasyDrv7_Win10.x64_7.23.1221.1.zip
+│          Wise Driver Care 单文件版 v2.2.1106.1009_2.exe
+│          打印机驱动器LBP2900Plus_R150_V330_W64_ZH_1.exe
+│          驱动精灵标准版_v9.70.0.104_纯净版绿色单文件.exe
+│          
+├─个性化
+│  ├─小爱同学
+│  │      小爱同学UWP.url
+│  │      小爱同学电脑版.Msixbundle
+│  │      
+│  ├─小米妙享
+│  │      免机型验证  小米妙享 For Windows（V3.2.0.464）.exe
+│  │      小米妙享 v3.2.0.296安装更新教程.pdf
+│  │      
+│  ├─应用商店
+│  │  │  微软商店&XboxPC_直链导出&安装工具_Ver.1.3.exe
+│  │  │  腾讯软件中心-海量软件高速下载.url
+│  │  │  
+│  │  ├─纯净软件下载器
+│  │  │  │  纯净软件下载器Pure.Software.Downloader→小鱼儿yr系统.url
+│  │  │  │  
+│  │  │  └─Pure.Software.Downloader
+│  │  │      │  Main.exe
+│  │  │      │  
+│  │  │      └─src
+│  │  │          └─images
+│  │  │                  bkg.jpg
+│  │  │                  btn_search.png
+│  │  │                  download.png
+│  │  │                  ico.png
+│  │  │                  PureSoftwareDownloader.ico
+│  │  │                  
+│  │  ├─联想软件商店
+│  │  │      Store-ind-10002.exe
+│  │  │      联想软件商店.url
+│  │  │      
+│  │  └─腾讯应用宝
+│  │          pc_yyb_1000000055_installer.exe
+│  │          应用宝官网.url
+│  │          
+│  ├─桌面美化
+│  │  │  DP美化.zip
+│  │  │  MoeW10.zip
+│  │  │  MoeW11.zip
+│  │  │  图标.zip
+│  │  │  鼠标.zip
+│  │  │  
+│  │  ├─Fliqlo时钟屏保
+│  │  │      Fliqlo - Flip Clock App and Screensaver.url
+│  │  │      Fliqlo.scr
+│  │  │      桌面时钟.exe
+│  │  │      
+│  │  ├─TrafficMonitor网速和流量监控悬浮窗口
+│  │  │      GitHub - zhongyang219-TrafficMonitor- 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。.url
+│  │  │      TrafficMonitor_V1.84.1_x64.zip
+│  │  │      网速和流量监控悬浮窗口TrafficMonitor.exe
+│  │  │      
+│  │  ├─字体设置
+│  │  │      Chinese (Simplified)_China.lng
+│  │  │      Chinese (Traditional)_Taiwan.lng
+│  │  │      default.lng
+│  │  │      English.lng
+│  │  │      noMeiryoUI.exe
+│  │  │      
+│  │  ├─腾讯桌面
+│  │  │      【腾讯桌面整理下载】2023年最新官方正式版腾讯桌面整理免费下载 - 腾讯软件中心官网.url
+│  │  │      腾讯桌面.exe
+│  │  │      
+│  │  └─设置教程
+│  │          435 8793129.png
+│  │          93499577-1-112.flv
+│  │          httpjarocheng.xyz.bmp
+│  │          【win10美化】win10开始菜单美化- 磁贴 - 桌面美化 - 桌面整理- tile genie图片磁贴_哔哩哔哩_bilibili.flv
+│  │          主题色.png
+│  │          主题色2.png
+│  │          任务栏.png
+│  │          关于颜色的十六进制对照表 - 菜鸟-传奇 - 博客园.url
+│  │          字体.png
+│  │          文件夹.png
+│  │          文件夹背景.png
+│  │          文件夹背景高级.png
+│  │          桌面.png
+│  │          策略.png
+│  │          系统1.png
+│  │          系统2.png
+│  │          系统3.png
+│  │          系统图标.png
+│  │          网络设置.png
+│  │          自定义.png
+│  │          鼠标.png
+│  │          
+│  └─游戏
+│      ├─Steam
+│      │      Steam — 顶级在线游戏平台.url
+│      │      SteamSetup.exe
+│      │      
+│      ├─原神
+│      │      yuanshen_setup_20230215195531.exe
+│      │      《原神》官网-米哈游全新开放世界.url
+│      │      
+│      └─夜神模拟器
+│              nox_setup_v7.0.6.1_full.exe
+│              夜神安卓模拟器-安卓模拟器电脑版下载_安卓手游模拟器_手机模拟器_官网.url
+│              
+├─办公教育
+│  ├─AMCap摄像头驱动
+│  │      amcap+v3.0.9.exe
+│  │      
+│  ├─Dev-C++
+│  │      Dev-C++ download - SourceForge.net.url
+│  │      Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe
+│  │      
+│  ├─FTP客户端
+│  │      FileZilla_3.68.1_win64_sponsored2-setup.exe
+│  │      FileZilla中文网 - 免费开源的FTP解决方案.url
+│  │      
+│  ├─Java
+│  │      Download Java for Windows.url
+│  │      jre-8u361-windows-x64.exe
+│  │      
+│  ├─kemotion3.16
+│  │      Deliverable_Keba_3.16.iso
+│  │      Internal_3.16CN.iso
+│  │      安装路径.txt
+│  │      
+│  ├─LabVIEW
+│  │      2015-000_LV-WinChn_主开发模块.exe
+│  │      破解.exe
+│  │      
+│  ├─Miniconda
+│  │      Miniconda — Anaconda documentation.url
+│  │      Miniconda3-latest-Windows-x86_64.exe
+│  │      
+│  ├─Notepad++
+│  │      npp.8.7.5.Installer.x64.exe
+│  │      npp.8.8.1.Installer.x64.exe
+│  │      下载 -记事本++.url
+│  │      
+│  ├─office
+│  │      office 2013 专业增强版 64位.zip
+│  │      Office365Setup.exe
+│  │      Office365镜像文件.img
+│  │      OFFICE_PRO_2016.EXE
+│  │      下载 - Office Tool Plus 官方网站.url
+│  │      微软软件下载.url
+│  │      
+│  ├─office辅助插件
+│  │      excel插件.zip
+│  │      ppt插件.zip
+│  │      word插件.zip
+│  │      
+│  ├─PDF24
+│  │      PDF24 Creator - 下载 - 100％免费 - PDF24 Tools.url
+│  │      pdf24-creator-11.10.1.exe
+│  │      
+│  ├─Proteus
+│  │  ├─Proteus 8.15
+│  │  │      Download Proteus Resources - brochures, helper files and utilities - Labcenter Electronics.url
+│  │  │      Licence2.lxk
+│  │  │      Patch-Proteus-3.15-SP1-34318.0.exe
+│  │  │      proteus8.15.SP1.exe
+│  │  │      Translations汉化.zip
+│  │  │      教程.txt
+│  │  │      
+│  │  └─Proteus 8.6
+│  │          Download Proteus - Try Proteus EDA Software - Labcenter Electronics.url
+│  │          Proteus_8.6_SP2_Pro.exe
+│  │          Translations汉化.zip
+│  │          
+│  ├─pycharm
+│  │      pycharm-community-2024.2.5.exe
+│  │      pycharm-community-2024.3.1.1.exe
+│  │      pycharm-professional-2022.3.3.exe
+│  │      pycharm设置中文.jpeg
+│  │      Python安装教程.jpeg
+│  │      下载 PyCharm： Python IDE for Professional Developers by JetBrains.url
+│  │      
+│  ├─Python
+│  │      Python Releases for Windows - Python.org.url
+│  │      python-3.11.0-amd64.exe
+│  │      python-3.11.2-amd64.exe
+│  │      python-3.7.9-amd64.exe
+│  │      python-3.8.10-amd64.exe
+│  │      python-3.9.6-amd64.exe
+│  │      python安装.mp4
+│  │      
+│  ├─SPSS
+│  │      SPSS 学术统计软件 - 中国 - IBM.url
+│  │      SPSS.exe
+│  │      
+│  ├─Visual Studio
+│  │      VisualStudioSetup.exe
+│  │      下载 Visual Studio Tools - 免费安装 Windows、Mac、Linux.url
+│  │      
+│  ├─Visual Studio Code
+│  │      Visual Studio Code - Code Editing. Redefined.url
+│  │      VSCodeUserSetup-x64-1.96.2.exe
+│  │      
+│  ├─WinSCP
+│  │      WinSCP -- Official Site -- Download.url
+│  │      WinSCP-6.3.6-Setup.exe
+│  │      
+│  ├─WPS
+│  │      setup_CN_2052_11.8.2.12094_Professional_VBA_gch_FZFonts_SZGD.exe
+│  │      WPS Office-支持多人在线编辑多种文档格式_WPS官方网站.url
+│  │      WPS2019专业增强版_11.8.2.11978_Setup.exe
+│  │      WPS_Setup_13703.exe
+│  │      
+│  ├─WPS辅助插件
+│  │      不坑盒子 Office插件.url
+│  │      不坑盒子安装器+2023.0312(1).exe
+│  │      秘塔写作猫.url
+│  │      秘塔写作猫WPS插件.exe
+│  │      达观助手 - 智能写作专家.url
+│  │      达观助手WPS插件v1.0.1.exe
+│  │      
+│  ├─专利业务办理系统客户端
+│  │      CNIPAClient_install_v1.0.12.2.exe
+│  │      CNIPAClient_patch_v1.0.12.2.exe
+│  │      工具下载.url
+│  │      
+│  ├─工业机器人应用编程安全教育与测评系统
+│  │      工业机器人应用编程安全教育与测评系统（练习版）安装包.exe
+│  │      工业机器人应用编程安全教育与测评系统（考试版）安装包.exe
+│  │      附件二：1+X安全测评软件.doc
+│  │      
+│  ├─未来教育考试系统
+│  │      未来教育考试系统V4.0.exe
+│  │      软件下载_未来教育_未来教育是一家研究计算机等级考试、英语等级考试、医学考试、日语考试等的教育机构，提供给考生最新考试资讯、考试动态、报名查分、模拟试题、在线咨询，为考生提供最全面的帮助!.url
+│  │      
+│  ├─腾讯会议
+│  │      TencentMeeting_0300000000_3.29.31.405_x86_64.publish.officialwebsite.exe
+│  │      云会议下载_视频会议下载_远程会议下载_语音会议下载-腾讯会议.url
+│  │      
+│  ├─腾讯文档
+│  │      TencentDocsSetup.exe
+│  │      腾讯文档-官方网站-支持多人在线编辑Word、Excel和PPT文档.url
+│  │      
+│  ├─词达人
+│  │      cidaren.exe
+│  │      词达人全自动答题.exe
+│  │      
+│  ├─钉钉
+│  │      dingtalk_downloader.exe
+│  │      钉钉下载_钉钉app下载_钉钉下载mac版-钉钉.url
+│  │      
+│  ├─音标点读
+│  │      音标点读软件（用电脑使用）.exe
+│  │      
+│  └─飞书
+│          Feishu-win32_ia32-7.34.6-signed.exe
+│          下载飞书 App 及桌面客户端 - 飞书官网.url
+│          
+├─工具箱
+│  ├─人脸活体检测
+│  │      crazy控制器.zip
+│  │      支持W10 CrazyTalk Pipeline 8.03.1620.1中英版.zip
+│  │      过脸动作脚本.zip
+│  │      
+│  ├─单文件制作
+│  │      7zSfxTool_v3.6.1.200.exe
+│  │      7zSFX_Constructor.dll
+│  │      7zSFX_Constructor.exe
+│  │      APPS.zip
+│  │      APPS解压配置环境.txt
+│  │      Easy7z.exe
+│  │      Easy7zHelp.chm
+│  │      Enigma Virtual Box v9.50.exe
+│  │      Enigmavb_v9.90.20211222_Chs.exe
+│  │      lua5.1.dll
+│  │      lua51.dll
+│  │      makesfx.exe
+│  │      单文件制作_x64.exe
+│  │      单文件制作_x86.exe
+│  │      单文件制作工具 7.0.2.3855_x64.exe
+│  │      单文件制作工具 7.0.2.3855_x86.exe
+│  │      单文件程序制作一键通.exe
+│  │      单文件程序制作一键通三合一_v5.15.exe
+│  │      简易封包工具_3.2.0.1.exe
+│  │      虚拟文件打包工具(Enigma Virtual Box)11.30.20250428汉化去广告版.exe
+│  │      
+│  ├─多功能工具箱
+│  │  │  系统离线工具.iso
+│  │  │  系统维护工具箱.exe
+│  │  │  超级工具箱.exe
+│  │  │  路遥工具箱.zip
+│  │  │  
+│  │  ├─FixWin 11.1
+│  │  │      ButtonExtended.dll
+│  │  │      First read me.txt
+│  │  │      FixWin 11.1.exe
+│  │  │      FixWin 11.1_zh-CHS.exe
+│  │  │      FixWin 11是修复Windows 11 - 10问题的最佳Windows修复工具.url
+│  │  │      
+│  │  └─图吧工具箱
+│  │          图吧工具箱 - 最纯净的硬件工具箱.url
+│  │          图吧工具箱.iso
+│  │          图吧工具箱2023.05绿色版自动解压程序R3.exe
+│  │          
+│  ├─安装包制作
+│  │      Advanced Installer.exe
+│  │      Advanced Installer下载_安装包制作工具 - 小鱼儿yr系统.url
+│  │      汉化说明.txt
+│  │      解压APP环境.zip
+│  │      
+│  ├─局域网文件共享
+│  │      chfsgui.exe
+│  │      CuteHttpFileServer - iscute.cn.url
+│  │      LocalSend-1.14.0-windows-x86-64.exe
+│  │      局域网共享精灵.exe
+│  │      局域网共享精灵.url
+│  │      
+│  ├─文件管理
+│  │  │  wordwxcel转图片.exe
+│  │  │  压缩包转图片.exe
+│  │  │  文件校验工具.exe
+│  │  │  重复文件查找.exe
+│  │  │  
+│  │  ├─BCompare文本文件对比工具
+│  │  │      !)添删右键菜单.bat
+│  │  │      7z.dll
+│  │  │      BC4Key.txt
+│  │  │      BCClipboard.exe
+│  │  │      BComp.com
+│  │  │      BComp.exe
+│  │  │      BCompare.exe
+│  │  │      BCompare.tr
+│  │  │      BCPreferences.xml
+│  │  │      BCShellEx64.dll
+│  │  │      BCState.xml
+│  │  │      BCState.xml.bak
+│  │  │      BCUnRAR.dll
+│  │  │      mime.types
+│  │  │      mscoree.dll
+│  │  │      Patch.exe
+│  │  │      PdfToText.exe
+│  │  │      README.txt
+│  │  │      破解软件中文频道 @PJAPK 微信公众号搜索PJAPK.url
+│  │  │      
+│  │  ├─EasyRecovery数据恢复
+│  │  │      EasyRecovery12数据恢复软件.exe
+│  │  │      EasyRecovery_Professional_14.exe
+│  │  │      EasyRecovery正式版下载-免费版,绿色版下载-EasyRecovery易恢复中文官网.url
+│  │  │      
+│  │  ├─EmEditor文本编辑器
+│  │  │      emed64_22.4.2.msi
+│  │  │      EmEditor (文本编辑器) – 支持大文件和Unicode的最佳Windows文本编辑器！.url
+│  │  │      
+│  │  ├─万能文件查看器Viewer
+│  │  │  │  UniversalViewerPro.exe
+│  │  │  │  Viewer_6.7.8单文件.exe
+│  │  │  │  破解.exe
+│  │  │  │  通用查看器 — 下载.url
+│  │  │  │  
+│  │  │  └─Universal Viewer插件
+│  │  │          7zip.zip
+│  │  │          amigadx.zip
+│  │  │          aviwcx.zip
+│  │  │          bzipplug.zip
+│  │  │          cadview_x64.zip
+│  │  │          catalogmaker-4.1.3.zip
+│  │  │          catalogmaker.zip
+│  │  │          cdocprop.zip
+│  │  │          certview.zip
+│  │  │          checksum.zip
+│  │  │          cloudplugin2.40.zip
+│  │  │          csvtab-1.0.3.zip
+│  │  │          dbxplug.zip
+│  │  │          deb_1.0.rar
+│  │  │          ded_wcx.zip
+│  │  │          dircbm_bin64_0.11.zip
+│  │  │          dircbm_bin64_0.12.zip
+│  │  │          dirsizecalc_2.22.zip
+│  │  │          diskdir.zip
+│  │  │          DiskDirCrc.zip
+│  │  │          DiskDirExtended64_1.67.zip
+│  │  │          diskinternals_procfs.zip
+│  │  │          DiskInternals_reader.zip
+│  │  │          ExeFormat_64_0.6c.rar
+│  │  │          exeinfo110.zip
+│  │  │          ext4Plugin_64.zip
+│  │  │          filediz.zip
+│  │  │          fileinfo223.zip
+│  │  │          FilenameChrCount_2.02.zip
+│  │  │          fspluginhelp2.1se_chm.zip
+│  │  │          gifwcx.zip
+│  │  │          htmlview_1.2.6.zip
+│  │  │          id3.zip
+│  │  │          Imagine_1.1.4_x64_Unicode.zip
+│  │  │          Img_20b.zip
+│  │  │          iso_plugin.zip
+│  │  │          JavaDecompiler.zip
+│  │  │          jsontab-1.0.5.zip
+│  │  │          linkinfo.rar
+│  │  │          listplughelp2.1_chm.zip
+│  │  │          lzma21.zip
+│  │  │          lzx_plugin.zip
+│  │  │          M3U_1.0.0.zip
+│  │  │          makebat.zip
+│  │  │          mavlzo_12022013.rar
+│  │  │          mmedia262u.zip
+│  │  │          msi_plugin.zip
+│  │  │          nlinfo.rar
+│  │  │          odbc-wlx-1.0.4.zip
+│  │  │          pdunsis.zip
+│  │  │          PHSM-Calendar1600s.zip
+│  │  │          plplugin.zip
+│  │  │          ppmd_plugin.zip
+│  │  │          registry.zip
+│  │  │          rpm_cpio.zip
+│  │  │          Services2_0.7.0.rar
+│  │  │          sff-1.2.zip
+│  │  │          sftpplug.zip
+│  │  │          shelldetails.zip
+│  │  │          sqlite-wlx-1.1.3.zip
+│  │  │          SWFView.zip
+│  │  │          TextSearch.zip
+│  │  │          ThousandTypes.zip
+│  │  │          Total7zip_0856.rar
+│  │  │          TotalISO.zip
+│  │  │          treecopyplus.zip
+│  │  │          uninstaller64.rar
+│  │  │          wcx_DiskDirW_1.2.4.zip
+│  │  │          wcx_GraphicConverter_1.8.6.zip
+│  │  │          wcx_inTRD_652.zip
+│  │  │          wcx_ref2.21se_chm.zip
+│  │  │          wdx_exif.zip
+│  │  │          webdav.zip
+│  │  │          wfx_sftp_1_4_67_4.zip
+│  │  │          wincefs.zip
+│  │  │          wlx_AKFont.zip
+│  │  │          wlx_anytag_097.zip
+│  │  │          wlx_cudalister_1.8.0.0.zip
+│  │  │          wlx_CudaLister_1.8.0.0_src.zip
+│  │  │          wlx_EMLView_1.2.6.5_Beta.zip
+│  │  │          wlx_excellence_1.20final.zip
+│  │  │          wlx_iclview.zip
+│  │  │          wlx_ICLView_26.3.2022.zip
+│  │  │          wlx_imagine_x64.zip
+│  │  │          wlx_linkinfo_1.52.rar
+│  │  │          wlx_listdoc_1_2.zip
+│  │  │          wlx_OOoViewer.rar
+│  │  │          wlx_OOoViewerSimple.zip
+│  │  │          wlx_pdfview_109.zip
+│  │  │          wlx_peviewer2.0.rar
+│  │  │          wlx_PhotoViewer_0.18_Beta.zip
+│  │  │          wlx_SQLiteViewer_2.17.zip
+│  │  │          wlx_sumatrapdf_0.8.1.zip
+│  │  │          wlx_swflst_2.0s_.zip
+│  │  │          wlx_ttfviewer_0.1.2.4.rar
+│  │  │          wlx_wt_2.2_rus.zip
+│  │  │          wpdplug.zip
+│  │  │          xmltab-1.0.5.zip
+│  │  │          xpdfsearch.zip
+│  │  │          xz10.zip
+│  │  │          zplugin.zip
+│  │  │          总指挥官 - TOTALCMD.NET.url
+│  │  │          总指挥官 - 插件.url
+│  │  │          通用查看器 — 列表插件.url
+│  │  │          
+│  │  ├─批量文件重命名Bulk Rename Utility
+│  │  │  │  BRUHere64.dll
+│  │  │  │  Bulk Rename Utility.exe
+│  │  │  │  Bulk Rename Utility.ini
+│  │  │  │  下载 - 批量重命名实用程序.url
+│  │  │  │  激活及添删右键菜单项.bat
+│  │  │  │  
+│  │  │  └─js
+│  │  │          date.js
+│  │  │          sugar.js
+│  │  │          
+│  │  ├─文件同步freefilesync
+│  │  │      下载最新版本 - 免费文件同步.url
+│  │  │      文件同步比较FreeFileSync_12.1_Setup.exe
+│  │  │      
+│  │  ├─文件夹加密软件
+│  │  │  │  文件夹加密软件.rar
+│  │  │  │  
+│  │  │  └─文件夹加密软件
+│  │  │          !)卸载.reg
+│  │  │          !)注册.reg
+│  │  │          help.chm
+│  │  │          lockdir.exe
+│  │  │          
+│  │  ├─文件夹移动FolderMove
+│  │  │      FolderMove v3.0.exe
+│  │  │      文件夹移动 - 符号链接 ??.url
+│  │  │      
+│  │  ├─文件强删工具_Wise Force Delete
+│  │  │      about-blank.url
+│  │  │      文件强删工具_Wise Force Delete.exe
+│  │  │      
+│  │  ├─文件极速拷贝工具FastCopy64
+│  │  │      FastCopy.exe
+│  │  │      FastCopy.url
+│  │  │      FastCopy2.ini
+│  │  │      FastEx64.dll
+│  │  │      FastExt.dll
+│  │  │      FastExt1.dll
+│  │  │      FcHash.exe
+│  │  │      fcp.exe
+│  │  │      setup.exe
+│  │  │      
+│  │  ├─文件格式查看器FileViewPro
+│  │  │      FileViewPro Gold Edition v1.9.8.19.exe
+│  │  │      FileViewPro.url
+│  │  │      FileViewPro单文件.exe
+│  │  │      SolvuSoft.Licensing.dll
+│  │  │      
+│  │  ├─文件解锁工具IObitUnlocker
+│  │  │  │  IObit Unlocker, Solution for -undelete files or folders- Problems on Windows 8, 7, Vista, XP, 10 - IObit.url
+│  │  │  │  IObitUnlocker.exe
+│  │  │  │  
+│  │  │  └─IObitUnlocker
+│  │  │      │  !)添删右键菜单.bat
+│  │  │      │  IObitUnlocker.dll
+│  │  │      │  IObitUnlocker.exe
+│  │  │      │  IObitUnlocker.sys
+│  │  │      │  IObitUnlockerExtension.dll
+│  │  │      │  SpecialDir.ini
+│  │  │      │  
+│  │  │      └─Language
+│  │  │              ChineseSimp.lng
+│  │  │              
+│  │  ├─易我数据恢复
+│  │  │  │  yw_huifu_free.exe
+│  │  │  │  易我数据恢复中文破解版v15.8.1.0 绿色便携版 - 423Down.url
+│  │  │  │  
+│  │  │  └─EaseUSDataRecoveryWizard_16.0
+│  │  │      │  EaseUSDataRecoveryWizard_16.0.exe
+│  │  │      │  关注微信 - 更多福利.png
+│  │  │      │  果核剥壳 - 全网更新最快.url
+│  │  │      │  
+│  │  │      └─补丁文件
+│  │  │          │  ReadMe (EDRW).txt
+│  │  │          │  
+│  │  │          ├─1- Hosts blocker
+│  │  │          │      EaseUS hosts blocker.bat
+│  │  │          │      
+│  │  │          ├─2- Patcher
+│  │  │          │      (32-Bit) EDRW Patcher v1.1.exe
+│  │  │          │      (64-Bit) EDRW Patcher v1.1.exe
+│  │  │          │      
+│  │  │          └─3- KeyGen (Activator)
+│  │  │                  EDRW v13 Activator v2.1 - De!.exe
+│  │  │                  
+│  │  └─重复文件查找DupFilesSearchAndLink
+│  │      │  DuplicateSearcher.Launcher.exe
+│  │      │  IncompressibleFiles.txt
+│  │      │  License.txt
+│  │      │  NLog.config
+│  │      │  NLog.dll
+│  │      │  Non-commercial use.key
+│  │      │  README.rus.txt
+│  │      │  README.txt
+│  │      │  ReleaseNotes.md
+│  │      │  ReleaseNotes.ru.md
+│  │      │  shortcuts.cfg
+│  │      │  standalone.txt
+│  │      │  重复文件搜索和链接（又名重复搜索器）.url
+│  │      │  
+│  │      ├─App
+│  │      │  ├─net6.0
+│  │      │  │      DuplicateSearcherNet6.dll
+│  │      │  │      DuplicateSearcherNet6.runtimeconfig.json
+│  │      │  │      DuplicateSearcherNet6.x64.exe
+│  │      │  │      DuplicateSearcherNet6.x86.exe
+│  │      │  │      Microsoft.IO.RecyclableMemoryStream.dll
+│  │      │  │      NLog.config
+│  │      │  │      System.CodeDom.dll
+│  │      │  │      System.Management.dll
+│  │      │  │      System.Text.Encodings.Web.dll
+│  │      │  │      System.Text.Json.dll
+│  │      │  │      
+│  │      │  ├─net7.0
+│  │      │  │      DuplicateSearcherNet7.64-Windows7.cmd
+│  │      │  │      DuplicateSearcherNet7.dll
+│  │      │  │      DuplicateSearcherNet7.runtimeconfig.json
+│  │      │  │      DuplicateSearcherNet7.x64.exe
+│  │      │  │      DuplicateSearcherNet7.x86.exe
+│  │      │  │      Microsoft.IO.RecyclableMemoryStream.dll
+│  │      │  │      NLog.config
+│  │      │  │      System.Management.dll
+│  │      │  │      
+│  │      │  └─netfx
+│  │      │      │  DuplicateSearcherNetFramework.exe
+│  │      │      │  DuplicateSearcherNetFramework.exe.config
+│  │      │      │  DuplicateSearcherNetFramework.exe.install.config
+│  │      │      │  DuplicateSearcherNetFramework.exe.manifest
+│  │      │      │  Microsoft.IO.RecyclableMemoryStream.dll
+│  │      │      │  NLog.config
+│  │      │      │  System.Buffers.dll
+│  │      │      │  System.CodeDom.dll
+│  │      │      │  System.Memory.dll
+│  │      │      │  System.Numerics.Vectors.dll
+│  │      │      │  System.Runtime.CompilerServices.Unsafe.dll
+│  │      │      │  
+│  │      │      └─Logs
+│  │      │              Log.txt
+│  │      │              
+│  │      ├─Help
+│  │      │      DuplicateSearcherScriptCommandsHelp.en.txt
+│  │      │      DuplicateSearcherScriptCommandsHelp.ru.txt
+│  │      │      DuplicateSearcherScriptCommandsHelp.uk.txt
+│  │      │      
+│  │      └─LanguagesV9
+│  │              Add new languages here.txt
+│  │              Chinese (Simplified) [zh].lng
+│  │              LanguagesV9.zip
+│  │              
+│  ├─贴绑
+│  │      使用教程.docx
+│  │      贴绑.zip
+│  │      
+│  └─高效工具
+│      │  EarTrumpet音量控制.url
+│      │  
+│      ├─365倒计时
+│      │  │  365倒计时器.exe
+│      │  │  set.ini
+│      │  │  
+│      │  └─wave
+│      │          end.wav
+│      │          end2.wav
+│      │          start.wav
+│      │          warn.wav
+│      │          
+│      ├─Anytxt全文搜索工具
+│      │      AnyTXT.Searcher.1.3.1112.Win32&Win64.exe
+│      │      AnyTXT.Searcher.1.3.1112.Win32&Win64.OCR.CN.exe
+│      │      下载最佳免费桌面全文搜索工具 -Anytxt.url
+│      │      
+│      ├─ContextMenuManager右键管理器
+│      │  │  ContextMenuManager- Windows右键菜单管理程序.url
+│      │  │  ContextMenuManager.zip
+│      │  │  Releases · BluePointLilac-ContextMenuManager.url
+│      │  │  
+│      │  └─ContextMenuManager
+│      │          ContextMenuManager.NET.3.5.exe
+│      │          ContextMenuManager.NET.4.0.exe
+│      │          版本说明.txt
+│      │          
+│      ├─Everything文件快速搜索
+│      │      Everything-1.4.1.1009.x64-Setup.exe
+│      │      Everything-1.4.1.1022.x64-Setup.exe
+│      │      下载 - voidtools.url
+│      │      
+│      ├─K-Lite_Codec_Pack编解码器
+│      │      K-Lite_Codec_Pack_1750_Mega.exe
+│      │      下载 K-Lite 编解码器包.url
+│      │      
+│      ├─listary搜索和应用启动
+│      │      Listary – File Search & App Launcher.url
+│      │      Listary.exe
+│      │      Listary激活码.txt
+│      │      
+│      ├─QTTabBar资源管理器
+
+
+QTTabBar ver 1043 文件夹管理器
+
+
+│      │      LanguageFile_zh-CN_吃爆米花的小熊_1038.xml
+│      │      QTTabBar - QuizoApps.url
+│      │      QTTabBar 2048 Beta2.zip
+│      │      QTTabBar10.exe
+│      │      QTTabBar_1043.zip
+│      │      汉化1.png
+│      │      汉化2.png
+│      │      汉化教程.gif
+│      │      选择模式.gif
+│      │      
+│      ├─Quicker工具箱
+│      │      2094184918@vx.txt
+│      │      Quicker.x64.1.43.57.0.msi
+│      │      Quicker.x64.1.44.10.0.msi
+│      │      Quicker软件 您的指尖工具箱 - Quicker.url
+│      │      
+│      ├─QuickLook桌面快速预览
+│      │  │  QuickLook - 杏组.url
+│      │  │  QuickLook-3.7.3.zip
+│      │  │  QuickLook-4.0.0.msi
+│      │  │  QuickLook.msi
+│      │  │  Releases · QL-Win-QuickLook · GitHub.url
+│      │  │  
+│      │  └─插件
+│      │          QuickLook.Plugin.ApkViewer.qlplugin
+│      │          QuickLook.Plugin.EpubViewer.qlplugin
+│      │          QuickLook.Plugin.FolderViewer.qlplugin
+│      │          QuickLook.Plugin.HelixViewer.qlplugin
+│      │          QuickLook.Plugin.OfficeViewer.qlplugin
+│      │          QuickLook.Plugin.PostScriptViewer.qlplugin
+│      │          QuickLook.Plugin.ShapefileViewer.qlplugin
+│      │          QuickLook.Plugin.TorrentViewer.qlplugin
+│      │          找到下载的.qlplugin 文件，按空格键.gif
+│      │          点击“install this plugin”.gif
+│      │          
+│      ├─uTools效率工具
+│      │      uTools-3.3.0.exe
+│      │      uTools官网 - 新一代效率工具平台.url
+│      │      
+│      ├─定时关机工具Wise Auto Shutdown
+│      │  │  config.ini
+│      │  │  License.txt
+│      │  │  Wise Auto Shutdown绿色版.exe
+│      │  │  WiseAutoShutdown.exe
+│      │  │  [官方]智慧清理下载中心.url
+│      │  │  
+│      │  └─Languages
+│      │          Albanian.ini
+│      │          Arabic.ini
+│      │          Azeri(Latin).ini
+│      │          Azeri.ini
+│      │          Belarusian.ini
+│      │          Bengali(India).ini
+│      │          Bulgarian.ini
+│      │          Catalan(Spain).ini
+│      │          Chinese(Simplified).ini
+│      │          Chinese(Traditional).ini
+│      │          Croatian.ini
+│      │          Czech.ini
+│      │          Danish.ini
+│      │          Dutch (Nederlands).ini
+│      │          English.ini
+│      │          Estonian.ini
+│      │          Finnish.ini
+│      │          French.ini
+│      │          Georgian.ini
+│      │          German.ini
+│      │          Greek.ini
+│      │          Hungarian.ini
+│      │          Indonesian.ini
+│      │          Italian.ini
+│      │          Japanese.ini
+│      │          Korean.ini
+│      │          Kurdish(Kurmanci).ini
+│      │          Kurdish(Sorani).ini
+│      │          Kurdish.ini
+│      │          LIetuviu.ini
+│      │          Persian.ini
+│      │          Polish.ini
+│      │          Portuguese (Brazil).ini
+│      │          Portuguese(Portugal).ini
+│      │          Romanian.ini
+│      │          Russian.ini
+│      │          Serbian.ini
+│      │          Slovak.ini
+│      │          Slovenian.ini
+│      │          Spanish(Spain).ini
+│      │          Swedish(Sweden).ini
+│      │          Tajik.ini
+│      │          Thai.ini
+│      │          Turkish.ini
+│      │          Ukrainian.ini
+│      │          Vietnamese.ini
+│      │          
+│      ├─微软工具箱
+│      │      microsoft-PowerToys- Windows system utilities to maximize productivity.url
+│      │      PowerToys_0.68.1_64bit_Setup.exe
+│      │      
+│      └─快捷方式删除
+│              MyComputerManager(快捷方式管理工具) v1.03 - 果核剥壳.url
+│              Release 3.3.3.1 · BluePointLilac-ContextMenuManager · GitHub.url
+│              快捷方式删除工具MyComputerManager_v1.03_64bit.exe
+│              
+├─常用软件
+│  ├─VM虚拟机
+│  │      VMware vCenter Converter Standalone - VMware Customer Connect.url
+│  │      VMware-converter-en-6.3.0-20575345.exe
+│  │      VMware-workstation-full-17.0.0-20800274.exe
+│  │      VMware-workstation-full-17.6.1-24319023_2.exe
+│  │      下载 VMware Workstation Pro - CN.url
+│  │      密钥.txt
+│  │      
+│  ├─下载工具
+│  │  ├─Aria2
+│  │  │      aria2-x-1.0.0-win.exe
+│  │  │      Aria2.x64.exe
+│  │  │      jonssonyan-aria2-x- 一款基于AriaNg和Aria2的PC端下载器.url
+│  │  │      
+│  │  ├─IDM
+│  │  │      IAS_1.2.cmd
+│  │  │      IDM 激活工具.cmd
+│  │  │      IDM 激活脚本_IAS_0.8_汉化版.bat
+│  │  │      IDM_v6.41.7中文免激活绿色版.exe
+│  │  │      Internet Download Manager- the fastest download accelerator.url
+│  │  │      PowerShell运行.txt
+│  │  │      下载格式.txt
+│  │  │      
+│  │  ├─Motrix
+│  │  │      Motrix-1.8.19-x64.exe
+│  │  │      Releases · agalwood-Motrix.url
+│  │  │      
+│  │  ├─qBittorrent
+│  │  │      qbittorrent_4.6.0beta1_lt20_qt6_x64_setup.exe
+│  │  │      qbittorrent_4.6.3_x64_setup.exe
+│  │  │      qbittorrent_enhanced_4.6.3.10_qt6_x64_setup.exe
+│  │  │      qBittorrent官方网站.url
+│  │  │      
+│  │  ├─Xdown
+│  │  │      xdown-2.0.5.2.zip
+│  │  │      Xdown.url
+│  │  │      
+│  │  ├─抖音采集工具
+│  │  │      aria2c.exe
+│  │  │      抖音采集工具Gui版_x64_20230131.exe
+│  │  │      设置.ini
+│  │  │      
+│  │  ├─视频下载器
+│  │  │      423Down.url
+│  │  │      4KVideoDownloaderPortable.exe
+│  │  │      App.zip
+│  │  │      Data.zip
+│  │  │      
+│  │  └─迅雷
+│  │          XunLeiWebSetup11.4.3.2054gw.exe
+│  │          迅雷-全球共享计算与区块链创领者.url
+│  │          迅雷Thunder_12.2.1.2930_2025.06.09.exe
+│  │          迅雷_11.1.12.1692_去广告SVIP绿色精简最终版.exe
+│  │          迅雷链接转换工具.exe
+│  │          
+│  ├─图片图形
+│  │  ├─2345看图王
+│  │  │      2345pic_v10.9.1.9791_compliant_x64.exe
+│  │  │      2345看图王-速度超快的看图软件（二三四五旗下）.url
+│  │  │      2345看图王v10.9.1.9791去广告绿色纯净版.exe
+│  │  │      
+│  │  ├─Adobe Flash Player 三合一特别版
+│  │  │      Adobe_Flash_Player_ActiveX_v34_0_0_277.exe
+│  │  │      Adobe_Flash_Player_NPAPI_v34_0_0_277.exe
+│  │  │      Adobe_Flash_Player_PPAPI_v34_0_0_277.exe
+│  │  │      Adobe_Flash_Player_v34_0_0_277_3in1_Silent.exe
+│  │  │      
+│  │  ├─ShareX截图
+│  │  │      ShareX-13.6.1-setup.exe
+│  │  │      发行共享X 13.6.1 ?共享X-共享X ?吉图布.url
+│  │  │      
+│  │  ├─verycapture截图
+│  │  │      verycapture.url
+│  │  │      VeryCapture_1.8.9.5.exe
+│  │  │      
+│  │  ├─图片工厂
+│  │  │      PTSetup2.6.0.1.exe
+│  │  │      图片工厂 Picosmos Tools.url
+│  │  │      
+│  │  ├─格式工厂
+│  │  │      FormatFactory_setup.exe
+│  │  │      格式工厂 - 免费多功能的多媒体文件转换工具.url
+│  │  │      
+│  │  ├─相似图片处理
+│  │  │      DuplicatePhotoFinder1.6.7.zip
+│  │  │      相似图片查找助手 - 新雨网.url
+│  │  │      
+│  │  └─美图秀秀
+│  │          xiuxiu64_setup.exe
+│  │          美图秀秀PC-设计从未如此简单.url
+│  │          
+│  ├─浏览器
+│  │  ├─Chrome浏览器
+│  │  │      ChromeSetup.exe
+│  │  │      Google Chrome 网络浏览器.url
+│  │  │      
+│  │  ├─Edge浏览器
+│  │  │      Microsoft Edge 浏览器功能 - Microsoft.url
+│  │  │      MicrosoftEdgeSetup.exe
+│  │  │      MicrosoftEdgeSetupDev每周更新.exe
+│  │  │      
+│  │  ├─FireFox火狐
+│  │  │      Firefox Installer.exe
+│  │  │      用 Firefox 功能保护您的隐私，更畅快地浏览.url
+│  │  │      
+│  │  ├─Opera桌面浏览器
+│  │  │      Opera 网页浏览器 - 更快速、更安全、更智能 - Opera.url
+│  │  │      Opera_96.0.4693.80_Setup.exe
+│  │  │      
+│  │  └─Tor浏览器
+│  │          BridgeDB网桥地址.url
+│  │          Tor Project - 匿名上网.url
+│  │          tor-browser-linux-x86_64-14.0.7.tar.xz
+│  │          torbrowser-install-win64-12.5.3_ALL.exe
+│  │          
+│  ├─聊天社交
+│  │  ├─Line
+│  │  │      LineInst.exe
+│  │  │      LINE｜always at your side-.url
+│  │  │      
+│  │  ├─potato
+│  │  │      Potato.url
+│  │  │      Potato_Desktop2.37.zip
+│  │  │      
+│  │  ├─QQ
+│  │  │      I'm QQ - 每一天，乐在沟通.url
+│  │  │      QQ9.7.1.28940.exe
+│  │  │      QQ_9.9.8_240325_x64_01.exe
+│  │  │      
+│  │  ├─telegram
+│  │  │      Telegram Desktop.url
+│  │  │      tsetup-x64.4.7.0.exe
+│  │  │      
+│  │  ├─TIM
+│  │  │      TIM-下载.url
+│  │  │      TIM3.4.5.22071.exe
+│  │  │      
+│  │  └─微信
+│  │      │  WeChatSetup.exe
+│  │      │  微信 Windows 版.url
+│  │      │  微信双开代码.bat
+│  │      │  
+│  │      ├─微信朋友圈导出
+│  │      │      Release 0.0.2 · tech-shrimp-WechatMoments.url
+│  │      │      wechat_moments.zip
+│  │      │      微信朋友圈导出工具.mp4
+│  │      │      
+│  │      ├─微信聊天记录导出
+│  │      │      MemoTrace-2.0.15.exe
+│  │      │      留痕 - MemoTrace.url
+│  │      │      
+│  │      ├─微信聊天记录查看
+│  │      │      聊天记录查看工具.exe
+│  │      │      
+│  │      └─微信通讯录导出40
+│  │              微信通讯录导出.exe
+│  │              微信通讯录抽水机.url
+│  │              
+│  ├─视频直播
+│  │  ├─EV录屏
+│  │  │      EVCapture_v4.2.3.exe
+│  │  │      EV录屏——免费高清无水印的屏幕录制软件.url
+│  │  │      
+│  │  ├─PotPlayer
+│  │  │      OpenCodecSetup64解码器.exe
+│  │  │      PotPlayerSetup64-230208.exe
+│  │  │      PotPlayer中文网 - 万能格式影音视频播放器 PotPlayer播放器 PotPlayer官网.url
+│  │  │      
+│  │  ├─剪映
+│  │  │      Jianying_4_0_1_9886_jianyingpro_0_creatortool.exe
+│  │  │      剪映专业版 - 全能易用的桌面端剪辑软件 - 轻而易剪 上演大幕.url
+│  │  │      
+│  │  └─腾讯视频
+│  │          TencentVideo11.65.4506.0.exe
+│  │          腾讯视频 - 中国领先的在线视频媒体平台,海量高清视频在线观看.url
+│  │          腾讯视频v11.65.4506去广告绿色版.exe
+│  │          
+│  ├─解压刻录
+│  │  ├─360压缩国际版
+│  │  │      360 Total Security - 下载免费防毒软件.url
+│  │  │      360zip_setup_1.0.0.1041.exe
+│  │  │      
+│  │  ├─7-Zip
+│  │  │      7-Zip 官方中文网站.url
+│  │  │      7z2201-x64.exe
+│  │  │      
+│  │  ├─Bandizip
+│  │  │      Bandizip Professional 7.30.0中文破解版.url
+│  │  │      Setup.exe
+│  │  │      路径替换Bandizip.exe
+│  │  │      
+│  │  ├─PowerISO
+│  │  │      PowerISO v8.4.0 Portable.7z
+│  │  │      PowerISO8-x64.exe
+│  │  │      www.poweriso.com.url
+│  │  │      
+│  │  ├─UltraISO
+│  │  │      UltraISO-9.7.6.3860-CN.exe
+│  │  │      
+│  │  └─WinRAR
+│  │          WinRAR v6.21 x64 SC.exe
+│  │          压缩文件管理器 WinRAR v6.21 x64 x86 简体中文版 - 全新汉化帮助文件 - App热.url
+│  │          
+│  ├─远程控制
+│  │  │  局域网远程控制RealVNC.exe
+│  │  │  
+│  │  ├─ToDesk
+│  │  │      ToDesk_4.6.2.0.exe
+│  │  │      ToDesk远程控制软件-免费安全流畅的远程连接电脑手机.url
+│  │  │      
+│  │  └─向日葵
+│  │          SunloginClient_13.1.0.48900_x64.exe
+│  │          SunloginClient_15.8.3.19819_x64.exe
+│  │          向日葵远程控制软件_远程控制电脑手机_远程桌面连接_远程办公-游戏-运维-贝锐向日葵官网.url
+│  │          
+│  └─音乐软件
+│      ├─foobar2000音频播放器
+│      │      asionwu - 博客园.url
+│      │      Foobar2000汉化版.exe
+│      │      福巴 2000.url
+│      │      
+│      ├─listen1
+│      │      Listen 1 音乐播放器.url
+│      │      listen1_2.27.0_win.exe
+│      │      listen1_2.27.0_win_x64.7z
+│      │      
+│      ├─lx-music
+│      │      lx-music-desktop-v2.1.2-x64-Setup.exe
+│      │      lx-music提取码glqw.url
+│      │      
+│      ├─QQ音乐
+│      │      QQMusicSetup_Home.exe
+│      │      QQ音乐-千万正版音乐海量无损曲库新歌热歌天天畅听的高品质音乐平台！.url
+│      │      
+│      ├─网易云音乐
+│      │      NeteaseCloudMusic_Music_official_2.10.6.200601.exe
+│      │      网易云音乐.url
+│      │      
+│      └─语音合成
+│              语言合成工具_站内搜索.url
+│              语音合成工具.exe
+│              语音合成工具_1.0.exe
+│              语音合成工具_1.0.zip - 蓝奏云.url
+│              
+├─搞机
+│  ├─iOS旧版应用下载
+│  │      iOS旧版应用下载v5.1.exe
+│  │      【2021-03-15更新】【免越狱】iOS任意版本号APP下载v5.1 - 『原创发布区』 - 吾爱破解 - LCG - LSG -安卓破解-病毒分析-www.52pojie.cn.url
+│  │      通过 Windows iTunes 抓包 TikTok.ipa历史版本 21.1.0.url
+│  │      
+│  ├─iTunes
+│  │      iTunes （最后一个支持应用商店的版本）.exe
+│  │      iTunes(12.13.1.3).exe
+│  │      下载和使用 Windows 10 版 iTunes - 官方 Apple 支持 (中国).url
+│  │      
+│  ├─pixel网络锁投屏
+│  │      1.bat
+│  │      adb.exe
+│  │      AdbWinApi.dll
+│  │      AdbWinUsbApi.dll
+│  │      downloaded_rom
+│  │      投屏.exe
+│  │      网络.bat
+│  │      
+│  ├─TikTok
+│  │      2023最新IOS端IPhone免拔卡稳定版TIKTOK安装使用教程-拒绝黑屏 一键下载配置小火箭 -无惧IPA签名过期.mp4
+│  │      官方20210909TikTok 21.1.0.ipa
+│  │      官方20210926TikTok 21.1.0.ipa
+│  │      教程.txt
+│  │      绑定 jarocheng1123outlookcom
+│  │      
+│  ├─安卓玩机工具箱
+│  │      shaw的个人主页（防失联）diandianguanggao.url
+│  │      安卓玩机工具箱 v4.7.3 by shaw.exe
+│  │      安卓玩机工具箱 v4.7.4 by shaw.exe
+│  │      
+│  ├─手机投屏
+│  │      1.bat
+│  │      1.exe
+│  │      downloaded_rom
+│  │      
+│  └─搞机助手_V4.7.3
+│          打不开安装这个（net4.0框架）.exe
+│          搞机助手.exe
+│          搞机助手_V4.7.3更新日志.txt
+│          
+├─机器人
+│  ├─ABB.RobotStudio
+│  │      RobotStudio - ABB.url
+│  │      RobotStudio 6.08双击破解.reg
+│  │      RobotStudio.iso
+│  │      RobotStudio_2024.3.1.zip
+│  │      
+│  ├─ABB.RobotWare
+│  │      ABB.RobotWare-6.07.6003.rspak
+│  │      ABB.RobotWare-6.08.0134.rspak
+│  │      ABB.RobotWare-6.08.0135.rspak
+│  │      ABB.RobotWare-6.08.1040.rspak
+│  │      ABB.RobotWare-6.08.2003.rspak
+│  │      
+│  ├─FANUC.ROBOGUIDEV
+│  │      frlicensechecker.dll
+│  │      ROBOGUIDEV9.4.iso
+│  │      ROBOGUIDE安装教程9.4.pdf
+│  │      ファナック株式会社 (FANUC CORPORATION).url
+│  │      安装路径.txt
+│  │      工业机器人软件-超过 250 多个软件功能-法努克美国.url
+│  │      破解教程.jpg
+│  │      
+│  ├─KUKA.OfficeLite KSS
+│  │      KUKA.OfficeLite KSS 8.2.rar
+│  │      KUKA.OfficeLite KSS 8.3.rar
+│  │      KUKA.OfficeLite KSS 8.5.rar
+│  │      KUKA.OfficeLite KSS 8.6.rar
+│  │      
+│  ├─KUKA.Sim
+│  │      KUKA.Sim_3.1.2.23.zip
+│  │      KUKA.Sim_4.1.0.2382.zip
+│  │      
+│  ├─KUKA.WorkVisual
+│  │  │  KUKA.WorkVisual_V3.0.9_Build0122.zip
+│  │  │  KUKA.WorkVisual_V4.0.31_Build0537.zip
+│  │  │  KUKA.WorkVisual_V5.0.10_Build0927.zip
+│  │  │  KUKA.WorkVisual_V6.0.31_Build3247.zip
+│  │  │  
+│  │  └─KUKA.WorkVisual手册
+│  │          KST_WorkVisual_40_zh.pdf
+│  │          KST_WorkVisual_50_zh.pdf
+│  │          KST_WorkVisual_60_zh.pdf
+│  │          
+│  ├─RoboDK
+│  │      Install-RoboDK-64-v5.8.0.24728.exe
+│  │      Install-RoboDK.tar.gz
+│  │      下载RoboDK.url
+│  │      机器人模型库 - RoboDK.url
+│  │      
+│  ├─URSim Linux
+│  │      Universal Robots - LEGACY DOWNLOAD CENTER.url
+│  │      URSim_Linux-5.12.6.1102099.tar.gz
+│  │      URSim_Linux-5.15.1.126626.tar.gz
+│  │      URSim_Linux-5.20.0.1211638.tar.gz
+│  │      
+│  ├─URSim VMware
+│  │      Universal Robots - LEGACY DOWNLOAD CENTER.url
+│  │      URSim-Ubuntu 18.04.06 LTS 32.zip
+│  │      URSim-Ubuntu 24.04.05 LTS 64.zip
+│  │      URSim_VIRTUAL-5.15.1.126626.rar
+│  │      
+│  ├─UR魔法文件
+│  │      urmagic_backup_programs.sh
+│  │      urmagic_configuration_files.sh
+│  │      urmagic_log_file.sh
+│  │      最新技术资料.url
+│  │      魔法文件说明.txt
+│  │      
+│  └─机器人杆长标定工具
+│          111.txt
+│          4POINT.txt
+│          ER20_47.txt
+│          MCRInstaller.exe
+│          RobotCalibration4.exe
+│          
+├─机械设计
+│  ├─CAD
+│  │  ├─AutoCAD
+│  │  │  │  AutoCAD_2024_Simplified_Chinese_Win_64bit_dlm.zip
+│  │  │  │  下载 AutoCAD 软件_AutoCAD 免费试用版_Autodesk 欧特克官网.url
+│  │  │  │  
+│  │  │  └─激活
+│  │  │          Adobe 2024 激活工具AdobeGenP 3.2.1.exe
+│  │  │          Autodesk 激活工具.exe
+│  │  │          BDGroupCore.bpf
+│  │  │          破解.txt
+│  │  │          破解方法一AutoCAD-Patch2124-New.exe
+│  │  │          破解方法二AdskNLM.exe
+│  │  │          
+│  │  ├─中望CAD
+│  │  │      CAD下载 CAD软件 最新CAD2022下载 免费中文版CAD下载-中望CAD官网-自主研发的二三维CAD软件机械设计制图软件免费下载及初学入门教程.url
+│  │  │      中望CAD_2025_1.1_Chs_Win_64bit_20240620.exe
+│  │  │      
+│  │  └─浩辰CAD
+│  │          浩辰CAD2025_release_zh-cn_240701.exe
+│  │          浩辰CAD软件官网-CAD软件下载_国产正版CAD制图软件,全球用户超7000万.url
+│  │          
+│  ├─Datakit3D文件格式转换
+│  │  │  crossmanager_64bit.msi
+│  │  │  setup_x64.exe
+│  │  │  vcredist_x64.exe
+│  │  │  安装教程.txt
+│  │  │  
+│  │  └─CrossManager2024_64bit
+│  │      │  crossmanager_x64.exe
+│  │      │  
+│  │      └─Plugins
+│  │              CrossCadWare_x64.dll
+│  │              
+│  ├─NX
+│  │      NX1980.zip
+│  │      NX2312.zip
+│  │      
+│  └─SolidWorks
+│      │  SolidWorks2020.zip
+│      │  SolidWorks2024.zip
+│      │  
+│      └─SOLIDWORKS插件
+│              step批量转零件.swp
+│              今日制造.exe
+│              大工程师·.exe
+│              开拔网工具箱2024.04.07.rar
+│              沐风工具箱5.2.0.10.zip
+│              迈迪工具集V6.zip
+│              
+├─比赛软件
+│      EETBasicSetup_v1.3.0.exe
+│      EETPro_setup_v3.3.1.exe
+│      mes-robot20220726.exe
+│      MiniCADSee_X64.exe
+│      VNC-Viewer-6.22.315-Windows-64bit.exe
+│      工业机器人实训 - 汇博机器人学堂 - 汇博.url
+│      自主导航AGV调控软件.zip
+│      
+├─网络
+│  ├─IP网络监控
+│  │  │  局域网的在线设备情况mPing.exe
+│  │  │  高级 IP 扫描器Advanced IP Scanner.zip
+│  │  │  
+│  │  ├─IP地址修改器
+│  │  │      IP 地址修改器 5.0 重制版 - kn007的个人博客.url
+│  │  │      IP地址修改器.exe
+│  │  │      
+│  │  ├─IP配置NetTool
+│  │  │      IP配置NetTool2.0.exe
+│  │  │      NetTool.Config
+│  │  │      
+│  │  ├─Ping监视器Ping Monster
+│  │  │      Ping监视器(Ping Monster)1.9汉化版.exe
+│  │  │      th_sjy 汉化分享博客.url
+│  │  │      说明.txt
+│  │  │      
+│  │  ├─复制公共 IP
+│  │  │      CopyIP.exe
+│  │  │      Example_Batch_File.cmd
+│  │  │      复制公共 IP v1.3.url
+│  │  │      
+│  │  ├─无线网络监视器Homedale
+│  │  │      无线网络监视器(Homedale)2.03补充汉化版 – th_sjy 专注软件汉化和资源分享，.url
+│  │  │      无线网络监视器(Homedale)2.03补充汉化版.exe
+│  │  │      
+│  │  ├─端口专家PortExpert
+│  │  │      端口专家(PortExpert)1.8.3.22汉化版 – th_sjy 专注软件汉化和资源分享，.url
+│  │  │      端口专家(PortExpert)1.8.3.22汉化版.exe
+│  │  │      说明.txt
+│  │  │      
+│  │  ├─网络扫描Advanced IP Scanner
+│  │  │      Advanced IP Scanner – 免费下载网络扫描程序.url
+│  │  │      Advanced_IP_Scanner_2.5.4594.1.exe
+│  │  │      
+│  │  └─网络扫描Nmap
+│  │      │  Nmap 7.95 - Zenmap 汉化版，端口扫描、网络嗅探工具 - Yfeil - 博客园.url
+│  │      │  Nmap- the Network Mapper - Free Security Scanner.url
+│  │      │  nmap-7.95-setup.exe
+│  │      │  
+│  │      └─汉化补丁
+│  │          └─zenmap
+│  │              └─lib
+│  │                  └─python3.11
+│  │                      └─site-packages
+│  │                          ├─cairo
+│  │                          │  │  py.typed
+│  │                          │  │  _cairo.cp311-mingw_x86_64.pyd
+│  │                          │  │  __init__.pyc
+│  │                          │  │  __init__.pyi
+│  │                          │  │  
+│  │                          │  └─include
+│  │                          │          py3cairo.h
+│  │                          │          
+│  │                          ├─gi
+│  │                          │  │  docstring.pyc
+│  │                          │  │  importer.pyc
+│  │                          │  │  module.pyc
+│  │                          │  │  pygtkcompat.pyc
+│  │                          │  │  types.pyc
+│  │                          │  │  _constants.pyc
+│  │                          │  │  _error.pyc
+│  │                          │  │  _gi.cp311-mingw_x86_64.dll.a
+│  │                          │  │  _gi.cp311-mingw_x86_64.pyd
+│  │                          │  │  _gi_cairo.cp311-mingw_x86_64.dll.a
+│  │                          │  │  _gi_cairo.cp311-mingw_x86_64.pyd
+│  │                          │  │  _gtktemplate.pyc
+│  │                          │  │  _option.pyc
+│  │                          │  │  _ossighelper.pyc
+│  │                          │  │  _propertyhelper.pyc
+│  │                          │  │  _signalhelper.pyc
+│  │                          │  │  __init__.pyc
+│  │                          │  │  
+│  │                          │  ├─overrides
+│  │                          │  │      Gdk.pyc
+│  │                          │  │      GdkPixbuf.pyc
+│  │                          │  │      GIMarshallingTests.pyc
+│  │                          │  │      Gio.pyc
+│  │                          │  │      GLib.pyc
+│  │                          │  │      GObject.pyc
+│  │                          │  │      Gtk.pyc
+│  │                          │  │      keysyms.pyc
+│  │                          │  │      Pango.pyc
+│  │                          │  │      __init__.pyc
+│  │                          │  │      
+│  │                          │  └─repository
+│  │                          │          __init__.pyc
+│  │                          │          
+│  │                          ├─radialnet
+│  │                          │  │  __init__.py
+│  │                          │  │  
+│  │                          │  ├─bestwidgets
+│  │                          │  │  │  boxes.py
+│  │                          │  │  │  buttons.py
+│  │                          │  │  │  comboboxes.py
+│  │                          │  │  │  expanders.py
+│  │                          │  │  │  frames.py
+│  │                          │  │  │  labels.py
+│  │                          │  │  │  textview.py
+│  │                          │  │  │  windows.py
+│  │                          │  │  │  __init__.py
+│  │                          │  │  │  
+│  │                          │  │  └─__pycache__
+│  │                          │  │          boxes.cpython-311.pyc
+│  │                          │  │          buttons.cpython-311.pyc
+│  │                          │  │          comboboxes.cpython-311.pyc
+│  │                          │  │          expanders.cpython-311.pyc
+│  │                          │  │          frames.cpython-311.pyc
+│  │                          │  │          labels.cpython-311.pyc
+│  │                          │  │          textview.cpython-311.pyc
+│  │                          │  │          windows.cpython-311.pyc
+│  │                          │  │          __init__.cpython-311.pyc
+│  │                          │  │          
+│  │                          │  ├─core
+│  │                          │  │  │  ArgvHandle.py
+│  │                          │  │  │  Coordinate.py
+│  │                          │  │  │  Graph.py
+│  │                          │  │  │  Info.py
+│  │                          │  │  │  Interpolation.py
+│  │                          │  │  │  XMLHandler.py
+│  │                          │  │  │  __init__.py
+│  │                          │  │  │  
+│  │                          │  │  └─__pycache__
+│  │                          │  │          ArgvHandle.cpython-311.pyc
+│  │                          │  │          Coordinate.cpython-311.pyc
+│  │                          │  │          Graph.cpython-311.pyc
+│  │                          │  │          Info.cpython-311.pyc
+│  │                          │  │          Interpolation.cpython-311.pyc
+│  │                          │  │          XMLHandler.cpython-311.pyc
+│  │                          │  │          __init__.cpython-311.pyc
+│  │                          │  │          
+│  │                          │  ├─gui
+│  │                          │  │  │  Application.py
+│  │                          │  │  │  ControlWidget.py
+│  │                          │  │  │  Dialogs.py
+│  │                          │  │  │  HostsViewer.py
+│  │                          │  │  │  Image.py
+│  │                          │  │  │  LegendWindow.py
+│  │                          │  │  │  NodeNotebook.py
+│  │                          │  │  │  NodeWindow.py
+│  │                          │  │  │  RadialNet.py
+│  │                          │  │  │  SaveDialog.py
+│  │                          │  │  │  Toolbar.py
+│  │                          │  │  │  __init__.py
+│  │                          │  │  │  
+│  │                          │  │  └─__pycache__
+│  │                          │  │          Application.cpython-311.pyc
+│  │                          │  │          ControlWidget.cpython-311.pyc
+│  │                          │  │          Dialogs.cpython-311.pyc
+│  │                          │  │          HostsViewer.cpython-311.pyc
+│  │                          │  │          Image.cpython-311.pyc
+│  │                          │  │          LegendWindow.cpython-311.pyc
+│  │                          │  │          NodeNotebook.cpython-311.pyc
+│  │                          │  │          NodeWindow.cpython-311.pyc
+│  │                          │  │          RadialNet.cpython-311.pyc
+│  │                          │  │          SaveDialog.cpython-311.pyc
+│  │                          │  │          Toolbar.cpython-311.pyc
+│  │                          │  │          __init__.cpython-311.pyc
+│  │                          │  │          
+│  │                          │  ├─util
+│  │                          │  │  │  drawing.py
+│  │                          │  │  │  geometry.py
+│  │                          │  │  │  integration.py
+│  │                          │  │  │  misc.py
+│  │                          │  │  │  __init__.py
+│  │                          │  │  │  
+│  │                          │  │  └─__pycache__
+│  │                          │  │          drawing.cpython-311.pyc
+│  │                          │  │          geometry.cpython-311.pyc
+│  │                          │  │          integration.cpython-311.pyc
+│  │                          │  │          misc.cpython-311.pyc
+│  │                          │  │          __init__.cpython-311.pyc
+│  │                          │  │          
+│  │                          │  └─__pycache__
+│  │                          │          __init__.cpython-311.pyc
+│  │                          │          
+│  │                          ├─zenmapCore
+│  │                          │  │  BasePaths.py
+│  │                          │  │  DelayedObject.py
+│  │                          │  │  Diff.py
+│  │                          │  │  I18N.py
+│  │                          │  │  Name.py
+│  │                          │  │  NetworkInventory.py
+│  │                          │  │  NmapCommand.py
+│  │                          │  │  NmapOptions.py
+│  │                          │  │  NmapParser.py
+│  │                          │  │  NSEDocParser.py
+│  │                          │  │  Paths.py
+│  │                          │  │  RecentScans.py
+│  │                          │  │  ScriptArgsParser.py
+│  │                          │  │  ScriptMetadata.py
+│  │                          │  │  SearchResult.py
+│  │                          │  │  StringPool.py
+│  │                          │  │  TargetList.py
+│  │                          │  │  UmitConf.py
+│  │                          │  │  UmitConfigParser.py
+│  │                          │  │  UmitDB.py
+│  │                          │  │  UmitLogging.py
+│  │                          │  │  UmitOptionParser.py
+│  │                          │  │  Version.py
+│  │                          │  │  __init__.py
+│  │                          │  │  
+│  │                          │  ├─data
+│  │                          │  │  ├─config
+│  │                          │  │  │      scan_profile.usp
+│  │                          │  │  │      zenmap.conf
+│  │                          │  │  │      zenmap_version
+│  │                          │  │  │      
+│  │                          │  │  ├─docs
+│  │                          │  │  │      help.html
+│  │                          │  │  │      
+│  │                          │  │  ├─locale
+│  │                          │  │  │  │  xgettext-profile_editor.py
+│  │                          │  │  │  │  
+│  │                          │  │  │  └─__pycache__
+│  │                          │  │  │          xgettext-profile_editor.cpython-311.pyc
+│  │                          │  │  │          
+│  │                          │  │  ├─misc
+│  │                          │  │  │      profile_editor.xml
+│  │                          │  │  │      
+│  │                          │  │  └─pixmaps
+│  │                          │  │      │  default_32.png
+│  │                          │  │      │  default_75.png
+│  │                          │  │      │  freebsd_32.png
+│  │                          │  │      │  freebsd_75.png
+│  │                          │  │      │  irix_32.png
+│  │                          │  │      │  irix_75.png
+│  │                          │  │      │  linux_32.png
+│  │                          │  │      │  linux_75.png
+│  │                          │  │      │  macosx_32.png
+│  │                          │  │      │  macosx_75.png
+│  │                          │  │      │  openbsd_32.png
+│  │                          │  │      │  openbsd_75.png
+│  │                          │  │      │  redhat_32.png
+│  │                          │  │      │  redhat_75.png
+│  │                          │  │      │  solaris_32.png
+│  │                          │  │      │  solaris_75.png
+│  │                          │  │      │  throbber.gif
+│  │                          │  │      │  throbber.png
+│  │                          │  │      │  ubuntu_32.png
+│  │                          │  │      │  ubuntu_75.png
+│  │                          │  │      │  unknown_32.png
+│  │                          │  │      │  unknown_75.png
+│  │                          │  │      │  vl_1_32.png
+│  │                          │  │      │  vl_1_75.png
+│  │                          │  │      │  vl_2_32.png
+│  │                          │  │      │  vl_2_75.png
+│  │                          │  │      │  vl_3_32.png
+│  │                          │  │      │  vl_3_75.png
+│  │                          │  │      │  vl_4_32.png
+│  │                          │  │      │  vl_4_75.png
+│  │                          │  │      │  vl_5_32.png
+│  │                          │  │      │  vl_5_75.png
+│  │                          │  │      │  win_32.png
+│  │                          │  │      │  win_75.png
+│  │                          │  │      │  zenmap.png
+│  │                          │  │      │  
+│  │                          │  │      └─radialnet
+│  │                          │  │              border.png
+│  │                          │  │              firewall.png
+│  │                          │  │              logo.png
+│  │                          │  │              padlock.png
+│  │                          │  │              router.png
+│  │                          │  │              switch.png
+│  │                          │  │              wireless.png
+│  │                          │  │              
+│  │                          │  └─__pycache__
+│  │                          │          BasePaths.cpython-311.pyc
+│  │                          │          DelayedObject.cpython-311.pyc
+│  │                          │          Diff.cpython-311.pyc
+│  │                          │          I18N.cpython-311.pyc
+│  │                          │          Name.cpython-311.pyc
+│  │                          │          NetworkInventory.cpython-311.pyc
+│  │                          │          NmapCommand.cpython-311.pyc
+│  │                          │          NmapOptions.cpython-311.pyc
+│  │                          │          NmapParser.cpython-311.pyc
+│  │                          │          NSEDocParser.cpython-311.pyc
+│  │                          │          Paths.cpython-311.pyc
+│  │                          │          RecentScans.cpython-311.pyc
+│  │                          │          ScriptArgsParser.cpython-311.pyc
+│  │                          │          ScriptMetadata.cpython-311.pyc
+│  │                          │          SearchResult.cpython-311.pyc
+│  │                          │          StringPool.cpython-311.pyc
+│  │                          │          TargetList.cpython-311.pyc
+│  │                          │          UmitConf.cpython-311.pyc
+│  │                          │          UmitConfigParser.cpython-311.pyc
+│  │                          │          UmitDB.cpython-311.pyc
+│  │                          │          UmitLogging.cpython-311.pyc
+│  │                          │          UmitOptionParser.cpython-311.pyc
+│  │                          │          Version.cpython-311.pyc
+│  │                          │          __init__.cpython-311.pyc
+│  │                          │          
+│  │                          └─zenmapGUI
+│  │                              │  About.py
+│  │                              │  App.py
+│  │                              │  BugReport.py
+│  │                              │  CrashReport.py
+│  │                              │  DiffCompare.py
+│  │                              │  FileChoosers.py
+│  │                              │  FilterBar.py
+│  │                              │  Icons.py
+│  │                              │  MainWindow.py
+│  │                              │  NmapOutputProperties.py
+│  │                              │  NmapOutputViewer.py
+│  │                              │  OptionBuilder.py
+│  │                              │  Print.py
+│  │                              │  ProfileCombo.py
+│  │                              │  ProfileEditor.py
+│  │                              │  ProfileHelp.py
+│  │                              │  ScanHostDetailsPage.py
+│  │                              │  ScanHostsView.py
+│  │                              │  ScanInterface.py
+│  │                              │  ScanNmapOutputPage.py
+│  │                              │  ScanOpenPortsPage.py
+│  │                              │  ScanRunDetailsPage.py
+│  │                              │  ScanScanListPage.py
+│  │                              │  ScansListStore.py
+│  │                              │  ScanToolbar.py
+│  │                              │  ScriptInterface.py
+│  │                              │  SearchGUI.py
+│  │                              │  SearchWindow.py
+│  │                              │  TargetCombo.py
+│  │                              │  TopologyPage.py
+│  │                              │  __init__.py
+│  │                              │  
+│  │                              ├─higwidgets
+│  │                              │  │  gtkutils.py
+│  │                              │  │  higboxes.py
+│  │                              │  │  higbuttons.py
+│  │                              │  │  higdialogs.py
+│  │                              │  │  higentries.py
+│  │                              │  │  higexpanders.py
+│  │                              │  │  higframe.py
+│  │                              │  │  higlabels.py
+│  │                              │  │  higlogindialogs.py
+│  │                              │  │  hignotebooks.py
+│  │                              │  │  higprogressbars.py
+│  │                              │  │  higscrollers.py
+│  │                              │  │  higspinner.py
+│  │                              │  │  higtables.py
+│  │                              │  │  higtextviewers.py
+│  │                              │  │  higwindows.py
+│  │                              │  │  __init__.py
+│  │                              │  │  
+│  │                              │  └─__pycache__
+│  │                              │          gtkutils.cpython-311.pyc
+│  │                              │          higboxes.cpython-311.pyc
+│  │                              │          higbuttons.cpython-311.pyc
+│  │                              │          higdialogs.cpython-311.pyc
+│  │                              │          higentries.cpython-311.pyc
+│  │                              │          higexpanders.cpython-311.pyc
+│  │                              │          higframe.cpython-311.pyc
+│  │                              │          higlabels.cpython-311.pyc
+│  │                              │          higlogindialogs.cpython-311.pyc
+│  │                              │          hignotebooks.cpython-311.pyc
+│  │                              │          higprogressbars.cpython-311.pyc
+│  │                              │          higscrollers.cpython-311.pyc
+│  │                              │          higspinner.cpython-311.pyc
+│  │                              │          higtables.cpython-311.pyc
+│  │                              │          higtextviewers.cpython-311.pyc
+│  │                              │          higwindows.cpython-311.pyc
+│  │                              │          __init__.cpython-311.pyc
+│  │                              │          
+│  │                              └─__pycache__
+│  │                                      About.cpython-311.pyc
+│  │                                      App.cpython-311.pyc
+│  │                                      BugReport.cpython-311.pyc
+│  │                                      CrashReport.cpython-311.pyc
+│  │                                      DiffCompare.cpython-311.pyc
+│  │                                      FileChoosers.cpython-311.pyc
+│  │                                      FilterBar.cpython-311.pyc
+│  │                                      Icons.cpython-311.pyc
+│  │                                      MainWindow.cpython-311.pyc
+│  │                                      NmapOutputProperties.cpython-311.pyc
+│  │                                      NmapOutputViewer.cpython-311.pyc
+│  │                                      OptionBuilder.cpython-311.pyc
+│  │                                      Print.cpython-311.pyc
+│  │                                      ProfileCombo.cpython-311.pyc
+│  │                                      ProfileEditor.cpython-311.pyc
+│  │                                      ProfileHelp.cpython-311.pyc
+│  │                                      ScanHostDetailsPage.cpython-311.pyc
+│  │                                      ScanHostsView.cpython-311.pyc
+│  │                                      ScanInterface.cpython-311.pyc
+│  │                                      ScanNmapOutputPage.cpython-311.pyc
+│  │                                      ScanOpenPortsPage.cpython-311.pyc
+│  │                                      ScanRunDetailsPage.cpython-311.pyc
+│  │                                      ScanScanListPage.cpython-311.pyc
+│  │                                      ScansListStore.cpython-311.pyc
+│  │                                      ScanToolbar.cpython-311.pyc
+│  │                                      ScriptInterface.cpython-311.pyc
+│  │                                      SearchGUI.cpython-311.pyc
+│  │                                      SearchWindow.cpython-311.pyc
+│  │                                      TargetCombo.cpython-311.pyc
+│  │                                      TopologyPage.cpython-311.pyc
+│  │                                      __init__.cpython-311.pyc
+│  │                                      
+│  ├─网盘梯子
+│  │  ├─AI 0x0
+│  │  │      AI 0x0.url
+│  │  │      AI.0x0_1.4.0.exe
+│  │  │      
+│  │  ├─AList 开源版
+│  │  │  │  alist.exe
+│  │  │  │  RaiDriveSetup.exe
+│  │  │  │  安卓手机安卓Alist以及配置.pdf
+│  │  │  │  安卓手机安卓Alist以及配置?–?学少何Blog.url
+│  │  │  │  手机使用.mp4
+│  │  │  │  电脑AList.mp4
+│  │  │  │  通用项 - AList文档.url
+│  │  │  │  
+│  │  │  └─data
+│  │  │      │  config.json
+│  │  │      │  data.db
+│  │  │      │  data.db-shm
+│  │  │      │  data.db-wal
+│  │  │      │  
+│  │  │      └─log
+│  │  │              log.log
+│  │  │              
+│  │  ├─AList 简易版
+│  │  │      AList Desktop下载.url
+│  │  │      alist-desktop_3.40.0_x64_en-US.msi
+│  │  │      alist-desktop_3.42.0_x64-setup.exe
+│  │  │      AList使用说明.pdf
+│  │  │      AList文档.url
+│  │  │      激活状态查询.url
+│  │  │      激活码.txt
+│  │  │      
+│  │  ├─ChatGPT
+│  │  │      ChatGPT_0.12.0_windows_x86_64.msi
+│  │  │      Release ChatGPT v0.12.0 · lencx-ChatGPT.url
+│  │  │      
+│  │  ├─Clash
+│  │  │      Clash.for.Windows.Setup.0.20.32.exe
+│  │  │      Clash.for.Windows.Setup.0.20.36.exe
+│  │  │      Clash.for.Windows.Setup.0.20.39.exe
+│  │  │      Clash.for.Windows.Setup.0.20.39.exe防和谐
+│  │  │      Clash.Verge_2.1.2_amd64.deb
+│  │  │      ClashX.dmg
+│  │  │      Releases · ender-zhao-Clash-for-Windows_Chinese.url
+│  │  │      Releases · Fndroid-clash_for_windows_pkg.url
+│  │  │      
+│  │  ├─Clash.Verge
+│  │  │      clash-verge-rev-clash-verge-rev- A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored.url
+│  │  │      Clash.Verge_2.2.3_x64-setup.exe
+│  │  │      下载与安装 - Clash Verge Rev Docs.url
+│  │  │      
+│  │  ├─Netch
+│  │  │      Netch.7z
+│  │  │      发布 ·Netchx-netch.url
+│  │  │      
+│  │  ├─PanDownload
+│  │  │      PanDownload - PanDownload.url
+│  │  │      PanDownload_公测版_0.1.6_ALL.zip
+│  │  │      
+│  │  ├─PikPak
+│  │  │      official_PikPak.exe
+│  │  │      PikPak.exe
+│  │  │      PikPak介绍 - PikPak - 极速秒存的私密云盘.url
+│  │  │      
+│  │  ├─V2rayN
+│  │  │      Releases · 2dust-v2rayN.url
+│  │  │      v2rayN-With-Core.zip
+│  │  │      v2rayN.zip
+│  │  │      windowsdesktop-runtime-6.0.21-win-x64.exe
+│  │  │      
+│  │  ├─百度网盘
+│  │  │      BaiduNetdisk_7.44.7.1.exe
+│  │  │      百度网盘 客户端下载.url
+│  │  │      
+│  │  ├─腾讯微云
+│  │  │      WeiyunApp-Setup-X64-5.2.1282.exe
+│  │  │      下载－腾讯微云.url
+│  │  │      
+│  │  ├─苏州市职业大学VPN
+│  │  │      EasyConnectInstaller.exe
+│  │  │      欢迎访问.url
+│  │  │      
+│  │  ├─蓝灯
+│  │  │      GitHub - getlantern-download- Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw.url
+│  │  │      lantern-installer.dmg
+│  │  │      lantern-installer.exe
+│  │  │      
+│  │  ├─阿里云盘
+│  │  │      aDrive-6.6.0.exe
+│  │  │      阿里云盘.url
+│  │  │      
+│  │  └─阿里小白羊版
+│  │          liupan1890-aliyunpan- 阿里云盘小白羊版 阿里云盘PC版 aliyundriver.url
+│  │          旧版本-v1.6.13.url
+│  │          阿里小白羊版Win v2.12.14.7z
+│  │          
+│  └─网络修复
+│      │  360DNS优选.exe
+│      │  360LSP修复.exe
+│      │  360宽带测速器.exe
+│      │  360断网急救箱1.exe
+│      │  360断网急救箱2.exe
+│      │  Dns Jumper v2.2 - A Free DNS Changer.url
+│      │  DnsJumper.exe
+│      │  DnsJumper.ini
+│      │  DnsTools 1.2.3绿色便携版.exe
+│      │  DNS优选(挑选最合适的DNS服务器,拒绝DNS劫持) - 『原创发布区』 - 吾爱破解 - LCG - LSG -安卓破解-病毒分析-www.52pojie.cn.url
+│      │  DNS优选.exe
+│      │  IP地址查看工具V3.88.1.exe
+│      │  吾爱破解论坛网络诊断修复工具 v2.5.exe
+│      │  联想网络修复工具V1.38.1.exe
+│      │  软媒魔方DNS.exe
+│      │  
+│      └─UsbEAm Hosts Editor多平台 hosts 修改
+│              Dogfight360 – 羽翼城个人博客.url
+│              gzip.dll
+│              libcurl.dll
+│              UsbEAm Hosts Editor v3.63.exe
+│              usbeam_IP.dat
+│              
+├─自动化
+│  ├─Cognex视觉
+│  │      Cognex In-Sight Software 6.1.3.exe
+│  │      Cognex In-Sight Software 6.5.0.exe
+│  │      Support - In-Sight Software & Firmware - Cognex.url
+│  │      
+│  ├─Eplan2.7
+│  │      0需要先安装office2013 x64 .txt
+│  │      2EPLAN 2.7 1-2.reg
+│  │      3EPLAN 2.7 2-2.reg
+│  │      4HASPUserSetup.exe
+│  │      5hasp_srm_drv_550_64.exe
+│  │      6EPLAN 2.1-27 X64 crack.exe
+│  │      7CMD命令行.txt
+│  │      Eplan2.7.iso
+│  │      
+│  ├─Keil单片机
+│  │      C51V802.EXE
+│  │      ccKeilVxx.exe
+│  │      KEIL 0xFD补丁.exe
+│  │      Keil UV3 注册机.exe
+│  │      pa51.dat
+│  │      Uv3.exe
+│  │      XXX 汉化.exe
+│  │      
+│  ├─modscan32（通讯测试软件）
+│  │  │  Book1.xls
+│  │  │  Custom1
+│  │  │  Custom2
+│  │  │  ex1.frm
+│  │  │  example1.csv
+│  │  │  modbus1.mdb
+│  │  │  modbusm.dll
+│  │  │  ModScan32.chm
+│  │  │  ModScan32.cnt
+│  │  │  ModScan32.exe
+│  │  │  ModScan32.tlb
+│  │  │  ModScan32Ex.vbp
+│  │  │  ModScan32Ex.vbw
+│  │  │  ModScan中文版.lpu
+│  │  │  ms32frm.cfg
+│  │  │  MSSCCPRJ.SCC
+│  │  │  oilp.bmp
+│  │  │  otemp.bmp
+│  │  │  ScanGuide.txt
+│  │  │  speedo.bmp
+│  │  │  tach.bmp
+│  │  │  temp.bmp
+│  │  │  volt.bmp
+│  │  │  无标题
+│  │  │  注册码.TXT
+│  │  │  
+│  │  ├─汉化版文件
+│  │  │      ex1.frm
+│  │  │      modbusm.dll
+│  │  │      ModScan32.exe
+│  │  │      ms32frm.cfg
+│  │  │      
+│  │  └─英文版文件
+│  │          ex1.frm
+│  │          modbusm.dll
+│  │          ModScan32.exe
+│  │          ms32frm.cfg
+│  │          
+│  ├─PLC数据采集
+│  │  │  Download - 胡工科技官网.url
+│  │  │  HslCommunicationDemo下载.exe
+│  │  │  
+│  │  ├─HslCommunicationDemo
+│  │  │      HslCommunication.dll
+│  │  │      HslCommunication.xml
+│  │  │      HslCommunicationDemo.exe
+│  │  │      HslControls.dll
+│  │  │      libcrypto-3-x64.dll
+│  │  │      libssl-3-x64.dll
+│  │  │      Newtonsoft.Json.dll
+│  │  │      Upgrade.exe
+│  │  │      WeifenLuo.WinFormsUI.Docking.dll
+│  │  │      WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+│  │  │      
+│  │  ├─HslCommunicationDemo读取PLC数据
+│  │  │      devices.xml
+│  │  │      HslCommunication.dll
+│  │  │      HslCommunication.xml
+│  │  │      HslCommunicationDemo.exe
+│  │  │      HslControls.dll
+│  │  │      Newtonsoft.Json.dll
+│  │  │      newVersionIngored.txt
+│  │  │      WeifenLuo.WinFormsUI.Docking.dll
+│  │  │      WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+│  │  │      生成快捷方式.cmd
+│  │  │      
+│  │  └─边缘网关
+│  │          HslCommunicationDemo-v11.7.0.zip
+│  │          HslTechnology.EdgeServer-linux-arm.zip
+│  │          HslTechnology.EdgeServer-linux-arm64.zip
+│  │          HslTechnology.EdgeServer-linux-x64.zip
+│  │          HslTechnology.EdgeServer-Win.zip
+│  │          HslTechnology.EdgeViewer.zip
+│  │          opcda注册.zip
+│  │          边缘网关使用手册.pdf
+│  │          
+│  ├─RFIDIP修改工具
+│  │      RFID_Tool_v1.0.9.7.exeRFID_Tool_v1.0.9.7.exe
+│  │      
+│  ├─TIA
+│  │  │  全局库.zip
+│  │  │  安装应用程序的基本介绍.png
+│  │  │  
+│  │  ├─SMART解密
+│  │  │      SMART解密.exe
+│  │  │      西门子S7-200 SMART解密.exe
+│  │  │      西门子S7200CN SMART项目密码破解.exe
+│  │  │      
+│  │  ├─STEP 7 MicroWIN SMART
+│  │  │      S7-200 SMART PLUS 2.6.chm
+│  │  │      S7-200 SMART PLUS 2.6.url
+│  │  │      S7-200 SMART系统手册.pdf
+│  │  │      S7MicroWinSmart_804.chm
+│  │  │      STEP 7 MicroWIN SMART V2.1 Updt1.ISO
+│  │  │      STEP 7 MicroWIN SMART V2.2.iso
+│  │  │      STEP 7 MicroWIN SMART V2.3.iso
+│  │  │      STEP 7 MicroWIN SMART V2.4.iso
+│  │  │      STEP 7 MicroWIN SMART V2.5.iso
+│  │  │      STEP 7 MicroWIN SMART V2.6.0.0.iso
+│  │  │      STEP 7 MicroWIN SMART V2.7.0.0.iso
+│  │  │      STEP 7 MicroWIN SMART V2.8.2.0.iso
+│  │  │      STEP 7 MicroWIN SMART.url
+│  │  │      STEP 7指令库下载.url
+│  │  │      
+│  │  ├─TIA密钥
+│  │  │      EKBInst.chm
+│  │  │      Sim_EKB_Install_2017_12_24.exe
+│  │  │      Sim_EKB_Install_2019_07_07.exe
+│  │  │      Sim_EKB_Install_2019_12_13.exe
+│  │  │      Sim_EKB_Install_2022_10_01.exe
+│  │  │      Sim_EKB_Install_2022_11_27.exe
+│  │  │      Sim_EKB_Install_2023_04_04.exe
+│  │  │      Sim_EKB_Install_2023_11_24.exe
+│  │  │      TIA Portal V15 V14 WINCC CCLicenseService 免狗和谐补丁.exe
+│  │  │      
+│  │  ├─V15
+│  │  │      Updates for STEP 7 V15 and WinCC V15 - ID- 109755826 - Industry Support Siemens.url
+│  │  │      V15.zip
+│  │  │      
+│  │  ├─V15.1
+│  │  │      Advanced.iso
+│  │  │      Professional.iso
+│  │  │      SIMATIC STEP 7 and WinCC V15.1 TRIAL Download - ID- 109761045 - Industry Support Siemens.url
+│  │  │      
+│  │  ├─V16
+│  │  │      TIA Portal 软件 试用版、更新包下载链接.url
+│  │  │      WinCC Professional.zip
+│  │  │      WinCC Unified.zip
+│  │  │      博途V16软件官方下载和安装-CSDN博客.url
+│  │  │      
+│  │  ├─V17
+│  │  │      SIMATIC STEP 7 incl. Safety, S7-PLCSIM and WinCC V17 TRIAL Download - ID- 109784440 - Industry Support Siemens.url
+│  │  │      TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V17.iso
+│  │  │      TIA_Portal_STEP7_Prof_Safety_WINCC_Prof_V17.iso
+│  │  │      
+│  │  └─V18
+│  │          SIMATIC STEP 7 incl. Safety, S7-PLCSIM and WinCC V18 TRIAL Download - ID- 109807109 - Industry Support Siemens.url
+│  │          SIMATIC_S7-PLCSIM_V18.iso
+│  │          TIA_Portal_STEP7_Prof_Safety_WINCC_Adv_Unified_V18_DVD1.iso
+│  │          
+│  ├─多摩川
+│  │      AUX1_1022.svd
+│  │      AUX2_1022.svd
+│  │      Drive120(x64)_Setup_EN.exe
+│  │      TAD8811_ModbusRTU中文说明(1).doc
+│  │      TAD8811_简易程序功能（中国語版）(1).docx
+│  │      TAD8811用户手册最终版6.2(1).pdf
+│  │      多摩川伺服参数设置(2).pdf
+│  │      
+│  ├─昆仑通态McgsPro
+│  │  │  McgsPro 3.3.6.6354 SP1.3 组态软件安装包.rar
+│  │  │  McgsPro基础视频教程.rar
+│  │  │  MCGSPRO组态软件链接及基础视频教程 提取码：JJ01-昆仑通态触摸屏_MCGS_昆仑通态_mcgsTpc_昆仑通态组态软件_嵌入式一体化触摸屏_全国销量第一_做神州工控先锋,创民族软件精华_自动化软硬件开发.url
+│  │  │  
+│  │  └─驱动
+│  │          2021_昆仑通态_向云送数_MQTT_STD驱动_V1.0_0823.rar
+│  │          McgsPro_HTTP&Json解析驱动_1.0.0.1_20220510.rar
+│  │          McgsPro_OpcUAClient_7.0.6.8_20220705.rar
+│  │          McgsPro_串口数据收发_v6.0.0.7_20201204.rar
+│  │          McgsPro_信捷Xnet_7.0.0.0_20210902.rar
+│  │          McgsPro_台达DVP-ES3串口_7.0.1.1_20210715.rar
+│  │          McgsPro_施耐德M241.rar
+│  │          McgsPro_施耐德TM218PLC串口驱动_v7.0.0.2_20200825.rar
+│  │          McgsPro_日立MICRO_EHV_HI驱动_6.0.0.2_20220715.rar
+│  │          McgsPro_日立_HITACHI_TCP驱动_6.0.0.3_20220124.rar
+│  │          McgsPro_显控PLC.rar
+│  │          McgsPro_标准网口收发驱动_6.0.0.1_20220819.rar
+│  │          McgsPro_汇川H3U串口_7.0.1.0_20210409.rar
+│  │          McgsPro_海为以太网.rar
+│  │          McgsPro倍福_Beckhoff_ADS_Ethernet_FreeTag_8.0.0.26_20230804.zip
+│  │          McgsPro欧姆龙_OmronNJ标签驱动_8.0.0.19_20230412.rar
+│  │          三菱_FX5U串口.zip
+│  │          信捷PLC驱动.zip
+│  │          信捷XD驱动.zip
+│  │          台达AS系列RTU.zip
+│  │          台达AS系列以太网.zip
+│  │          汇川系列驱动.rar
+│  │          
+│  ├─机器视觉
+│  │  │  PLC_变频器_伺服_人机界面_无锡信捷电气股份有限公司[官网].url
+│  │  │  
+│  │  └─X-Sight Studio SV5
+│  │          install.ini
+│  │          setup.exe
+│  │          
+│  ├─电工实物布线仿真教学
+│  │      电工实物布线仿真教学.exe
+│  │      
+│  ├─电工技能与实训仿真教学系统
+│  │      电工技能与实训仿真教学系统.iso
+│  │      
+│  └─视觉实训软件及安装教程
+│          1 vs2012安装教程.mp4
+│          2 visionpro安装教程.mp4
+│          visionpro8.iso
+│          VS2012_ULT_chs.iso
+│          安装软件之前请阅读.txt
+│          
+└─阴阳五行
+    ├─apk
+    │      三才八阵九爻易程序.apk
+    │      小南斗xiaonandou_20241202_release_1.23.9.apk
+    │      文墨天机-Base64-1.9.30_2.apk
+    │      问真八字com.wzwh.bzpaipan_2.4.3.apk
+    │      
+    ├─exe
+    │      天纪课程配套软件2.2.1（斗数，四柱，先天后天卦）.exe
+    │      文墨天机.exe
+    │      策天飞星.exe
+    │      连山易排盘.exe
+    │      
+    └─倪海厦
+            人纪针灸.zip
+            医案论文.zip
+            天纪排盘.zip
+            安装视频教程.mp4
+            常见问题解决方法.jpg
+            解压后先安装flash软件，然后卸载flash中心.exe
