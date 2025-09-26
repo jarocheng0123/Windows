@@ -2681,3 +2681,23 @@ Xmind
 https://pixpin.cn/
 
 剪贴板历史：Ditto
+剪贴板记录工具Ditto
+
+
+https://www.sordum.org/9470/windows-update-blocker-v1-8/
+
+
+https://www.oo-software.com/en/shutup10
+
+
+
+
+键盘可视化
+这个工具可以在屏幕上实时显示键盘操作，可以很方便的用于演示、截屏、录屏，支持自定义外观、显示位置等https://github.com/Code52/carnac
+
+
+https://woobx.cn/
+
+
+
+https://github.com/stackia/best-windows-apps
