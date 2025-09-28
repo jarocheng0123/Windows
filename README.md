@@ -32,6 +32,35 @@
 </table>
 
 
+
+## 参考平台
+
+52破解等
+
+https://www.diannaowu.com/
+
+https://ruanjianya.net/
+https://www.mefcl.com/
+
+## 参考网页
+
+针对某一功能
+
+
+windows电脑文件夹共享设置步骤分享 https://zhuanlan.zhihu.com/p/630704051
+如何用优启通制作U盘启动盘 https://www.yrxitong.com/h-nd-12.html
+
+https://www.yrxitong.com/h-nd-56.html
+
+https://www.yrxitong.com/h-nd-54.html
+
+
+
+
+
+
+优启通EasyU 3.7.2023.1206_小鱼儿yr定制版 https://www.yrxitong.com/h-nd-764.html
+
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 
@@ -2701,3 +2730,23 @@ https://woobx.cn/
 
 
 https://github.com/stackia/best-windows-apps
+
+
+https://github.com/Chuyu-Team/Dism-Multi-language/releases
+
+https://github.com/rayenghanmi/RyTuneX
+https://github.com/hellzerg/optimizer
+
+https://github.com/99natmar99/Windows-11-Fixer
+
+https://wpd.app/
+
+https://www.thewindowsclub.com/ultimate-windows-tweaker-5-for-windows-11
+
+https://github.com/tranht17/WinTune
+
+https://github.com/Sophia-Community/SophiApp
+
+
+
+美国随机地址生成器
