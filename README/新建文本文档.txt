@@ -1,0 +1,7 @@
+2024年7月7日更新：伪装 Redmi Book Pro 16 (2024)
+
+补丁下载链接 https://wwyj.lanzouw.com/b01w79o4d 密码:1111
+软件下载官网直链：
+MIUI： 小米妙享 3.2.0.464 https://cdn.cnbj1.fds.api.mi-img.com/download/miaiot/AIoT_master_publication_3.2.0.464_04dc6bb9.exe 
+澎湃1：小米电脑管家 4.2.4.1982 https://cdn.cnbj1.fds.api.mi-img.com/ota-packages/ju6M_XiaomiPCManager_master_4.2.4.1982_cef36ab1.exe 
+澎湃2：小米电脑管家 4.3.0.1881 https://cdn.cnbj1.fds.api.mi-img.com/ota-packages/uhs__XiaomiPCManager_hyperos2_4.3.0.1881_a14d90c7.exe 
