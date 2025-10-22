@@ -506,7 +506,19 @@
         <span>GithubCN</span>
       </a>
     </td>
-        <td style="text-align: center;">
+    <td style="text-align: center;">
+      <a href="https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc">
+        <img src="png/Edge/Octotree.png" width="80">
+        <br>
+        <span>Octotree</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="text-align: center;">
       <a href="https://greasyfork.org/zh-CN/scripts/412245-github-enhancement-high-speed-download">
         <img src="png/Edge/Greasy Fork.png" width="80">
         <br>
