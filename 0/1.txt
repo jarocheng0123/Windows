@@ -1,0 +1,96 @@
+# 广告拦截
+Adblock Plus - 免费的广告拦截器
+AdGuard 广告拦截器
+QuickGo 外链直达
+
+
+
+
+
+
+
+# 安全保护
+IObit Surfing Protection
+WOT 网站安全和安全浏览保护
+
+
+
+# 内容优化
+终结内容农场
+类似的网站 - 发现相关网站
+
+
+# 图片预览放大
+Imagus
+
+# 密码管理
+Bitwarden
+
+
+# 代理
+Proxy SwitchyOmega
+SmartProxy
+
+
+
+
+# 下载
+Aria2 Explorer
+IDM Integration Module
+猫抓
+
+
+# 工具
+草料二维码 - 快速生码和解码工具
+
+
+# 视频加速
+Global Speed 视频速度控制
+
+# 阅读体验
+Dark Reader
+
+
+# 一键回到顶部
+Scroll To Top Button
+
+
+#翻译
+划词翻译
+沉浸式翻译
+
+
+# 网页截图
+捕捉网页截图
+SingleFile
+
+
+# 网页书签
+N-Tab
+超级书签
+
+
+
+
+# 
+扩展管理器
+
+
+
+# 开发者工具
+Tampermonkey
+脚本猫
+油小猴865746
+
+
+# GitHub
+Octotree
+github
+GithubCN
+GitHub加速
+
+
+
+
+# 网页使用的 IP 协议
+IPvFoo
