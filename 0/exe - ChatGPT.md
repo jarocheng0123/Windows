@@ -7,31 +7,31 @@
   * Bootice、Wise Folder Hider Pro、PowerToys、UACWhitelistTool
 * **硬件检测与调试工具**：
 
-  * AIDA64、CPU-Z、HDDLLF、NTFS Drive Protection、Sordum 系统工具网站
+  * 、、HDDLLF、NTFS Drive Protection、Sordum 系统工具网站
 
 ### 2. **网络工具**
 
 * **下载管理与加速工具**：
 
-  * 、Neat Download Manager、迅雷、qBittorrent
+  * 、、、qBittorrent
 * **网络调试与监控工具**：
 
   * Wireshark、Ping Monster、Nmap、DNS Jumper
 * **虚拟专用网络 (VPN) 与代理工具**：
 
-  * Tor Browser、ClashVergeRev、Netch
+  * 、、
 * **远程桌面工具**：
 
-  * TeamViewer、RealVNC Viewer、AnyDesk、向日葵远程
+  * TeamViewer、、AnyDesk、
 
 ### 3. **开发工具**
 
 * **编程与开发环境**：
 
-  * Visual Studio、PyCharm、Git、GitHub Desktop、Dev-C++
+  * 、、、、
 * **容器与虚拟化工具**：
 
-  * Docker Desktop、VMware、Ubuntu、Windows Subsystem for Linux
+  * 、、、
 * **数据库与调试工具**：
 
   * MySQL Workbench、Postman、Xdebug
@@ -43,7 +43,7 @@
   * 火绒安全、Windows Defender、Fort Firewall、Proteus
 * **密码管理与加密工具**：
 
-  * Bitwarden、Password Safe、KeePass
+  * 、Password Safe、KeePass
 * **临时邮箱与电话号码服务**：
 
   * Temp Mail、SMS-Activate、一次性临时邮箱
@@ -58,7 +58,7 @@
   * PDF24、Sumatra PDF、Format Factory
 * **截图与录屏工具**：
 
-  * QQ ScreenShot、ShareX、ScreenToGif、EV录屏
+  * 、、、EV录屏
 * **思维导图与笔记工具**：
 
   * Xmind、uTools、云便签
@@ -67,7 +67,7 @@
 
 * **视频与音频播放器**：
 
-  * PotPlayer 64 bit、VLC、Winamp、网易云音乐
+  * PotPlayer 64 bit、VLC、Winamp、
 * **图像与视频编辑工具**：
 
   * Photoshop、剪映、FastCopy、FFmpeg、格式工厂
@@ -97,10 +97,10 @@
 
 * **电子邮件与通讯工具**：
 
-  * QQ、企业微信、微信、飞书、Telegram、钉钉
+  * 、企业微信、飞书、、钉钉
 * **机器人与自动化工具**：
 
-  * Agile Robots 思灵机器人、DobotStudio Pro、ROBOGUIDE、Proteus
+  * 、、、Proteus
 * **多功能工具箱**：
 
   * 小众软件、图吧工具箱、安卓玩机工具箱
@@ -131,16 +131,16 @@
 - **系统优化/维护**：Dism++、Optimizer、Windows 11 Fixer、Windows Update Blocker、Windows11轻松设置、Windows超级管理器、WinTune、WhyNotWin11、O&O ShutUp10++、Privatezilla、WPD、关闭微软安全中心、一键禁用卸载Windows Defender、微软电脑管家、联想电脑管家、火绒安全  
 - **启动维护/PE 工具**：微PE工具箱、无忧启动、杏雨梨云启动维护系统、优启通YR定制版、萝卜头 WTG辅助工具、口袋系统WinToGo  
 - **分区/磁盘工具**：DiskGenius、分区助手、SpaceSniffer、WizTree、Ntfs Drive Protection、HDDLLF、Ventoy  
-- **文件管理/压缩**：、、、WinRAR、FastCopy、FreeFileSync、Bulk Rename Utility、Duplicate Cleaner、Duplicate Files Search、Everything、FileZilla、FileViewPro、、Universal Viewer、FolderMove、USBCopyer、UsbEAm Hosts Editor  
+- **文件管理/压缩**：、、、、FastCopy、、Bulk Rename Utility、Duplicate Cleaner、Duplicate Files Search、Everything、FileZilla、FileViewPro、、Universal Viewer、、USBCopyer、UsbEAm Hosts Editor  
 - **卸载/修复**：Geek Uninstaller、HiBit Uninstaller、FixWin 11、Wise Force Deleter、Wise Folder Hider Pro、Wise Auto Shutdown  
 
 ---
 
 ## 👨‍💻 开发与编程
-- **IDE/语言**：Visual Studio、VS Code（含插件版）、PyCharm、Dev-C++、Anaconda、Java、python  
-- **版本控制**：Git、GitHub Desktop  
+- **IDE/语言**：、、、、Java、python  
+- **版本控制**：、  
 - **调试/工具**：Wireshark、Nmap、NetTool、NETworkManager、NetSetMan、DnsTools、DNS优选、Advanced IP Scanner、PortExpert、Sniffnet  
-- **虚拟化/容器**：vmware、Docker Desktop、Windows Subsystem for Linux、Ubuntu  
+- **虚拟化/容器**：、、、  
 - **脚本/单文件工具**：Enigma Virtual Box、单文件制作工具、单文件程序制作一键通三合一版、makesfx  
 
 ---
@@ -161,30 +161,30 @@
 ---
 
 ## 🌐 网络与下载
-- **下载工具**：、Neat Download Manager、XDown、迅雷、Aria、PikPak、百度网盘、阿里云盘、夸克网盘、腾讯微云  
+- **下载工具**：、、、、Aria、PikPak、百度网盘、阿里云盘、夸克网盘、腾讯微云  
 - **临时邮箱/短信**：100% 免费临时电话号码、SMS-Activate、Temp Mail、一次性临时电子邮件、临时电话号码、線上接收簡訊  
-- **浏览器/插件**：Edge、GoogleChrome、Tor Browser  
-- **远程/传输**：ToDesk、向日葵远程、RealVNC Viewer、轻松传、在线文本传输、在线文本速传、拷贝兔、AirPortal  
+- **浏览器/插件**：、、  
+- **远程/传输**：、、、轻松传、在线文本传输、在线文本速传、拷贝兔、AirPortal  
 
 ---
 
 ## 🎨 图像/视频/多媒体
-- **图像工具**：2345看图王、美图秀秀、哲风壁纸、宝藏图库、彼岸图网、格式工厂、PixPin、草料二维码  
-- **视频工具**：PotPlayer、完美解码、剪映、EV录屏、ScreenToGif、ShareX、Fliqlo（屏保）、Utimate Vocal Remover  
-- **音频/音乐**：网易云音乐、QQ音乐  
+- **图像工具**：2345看图王、、哲风壁纸、宝藏图库、彼岸图网、格式工厂、PixPin、草料二维码  
+- **视频工具**：PotPlayer、完美解码、剪映、EV录屏、、、Fliqlo（屏保）、Utimate Vocal Remover  
+- **音频/音乐**：、  
 
 ---
 
 ## 🕹️ 游戏与娱乐
 - **游戏平台**：Steam  
-- **游戏相关**：3DM游戏网、原神、Dogfight360、rutracker.org  
+- **游戏相关**：3DM游戏网、原神、、rutracker.org  
 - **模拟器**：夜神安卓模拟器  
 
 ---
 
 ## 🏭 工业/机器人/工程软件
-- **CAD/工程**：AutoCAD、中望CAD、浩辰CAD、SolidWorks、NX、EPLAN、Proteus、LabView  
-- **机器人/自动化**：ABB、Agile Robots 思灵机器人、Cognex In-Sight、DobotStudio Pro、EFORT 埃夫特、FAIRINO 法奥机器人、INOVANCE 汇川技术、KeMotion、kuka、MCGS昆仑通态、QJAR 钱江机器人、realman 睿尔曼、RoboDK、ROBOGUIDE、ROKAE 珞石机器人、SINSUN 新松机器人、Universal Robots、汇博机器人、信捷电气  
+- **CAD/工程**：、、、、、、Proteus、LabView  
+- **机器人/自动化**：、、、、、、、、、MCGS昆仑通态、、、RoboDK、、、、Universal Robots、、信捷电气  
 - **PLC/调试**：Modbus 主站仿真器、MODBUS调试助手、Modscan32、串口调试助手、PLC解密网、TIA、S7-200 SMART  
 
 ---
@@ -196,14 +196,14 @@
 ---
 
 ## 📱 社交与通讯
-- **即时通讯**：QQ、微信、企业微信、钉钉、飞书、LINE、Telegram、腾讯会议  
-- **社交工具**：WechatMoments、抖音  
+- **即时通讯**：、、企业微信、钉钉、飞书、、、腾讯会议  
+- **社交工具**：WechatMoments、  
 
 ---
 
 ## 🎁 其他/资源类
 - **资源站点**：52pojie、IT天空、果核剥壳、小众软件、蓝点网、远景论坛、软件鸭、路遥工具箱、图吧工具箱  
-- **驱动/硬件**：驱动精灵、万能驱动、电脑配置一键读取、AIDA64、CPU-Z、GPU 工具类  
+- **驱动/硬件**：、、电脑配置一键读取、、、GPU 工具类  
 - **主题/美化**：枫の主题社、哲风壁纸  
 - **杂项**：文叔叔、文墨天机、大眼仔旭、搞机助手、安卓玩机工具箱  
 
@@ -217,8 +217,8 @@
 
 ### 🛠️ **系统工具与维护/优化**
 * **系统信息/诊断/优化**
-    * CPU-Z
-    * AIDA64
+    * 
+    * 
     * Dism++
     * FixWin 11
     * Optimizer
@@ -259,27 +259,27 @@
     * 
     * 
     * 
-    * WinRAR
+    * 
 * **传输/下载**
     *  ()
-    * Neat Download Manager
-    * XDown
+    * 
+    * 
     * AirPortal
     * CuteHttpFileServer
     * LocalSend
     * 拷贝兔
     * 文叔叔
     * 轻松传
-    * 迅雷
+    * 
 * **同步/备份/恢复**
-    * EasyRecovery
-    * FreeFileSync
-    * 易我数据恢复
+    * 
+    * 
+    * 
     * USBCopyer
 * **文件操作增强**
     * Bulk Rename Utility (批量重命名)
     * FastCopy (高速复制)
-    * FolderMove
+    * 
     * IObit Unlocker (文件解锁)
     * XmCopyName
 * **搜索/查找**
@@ -308,18 +308,18 @@
     * 串口调试助手
     * 胡工物联
 * **代理/加速**
-    * ClashVergeRev
-    * Netch
+    * 
+    * 
     * UsbEAm Hosts Editor
 * **远程控制/虚拟化**
-    * RealVNC Viewer
-    * ToDesk
-    * vmware
-    * 向日葵远程
+    * 
+    * 
+    * 
+    * 
 
 ### 🛡️ **安全与隐私**
 * **密码管理**
-    * Bitwarden
+    * 
 * **安全防御**
     * Fort Firewall
     * 火绒安全
@@ -327,7 +327,7 @@
     * 一键禁用卸载Windows Defender
     * 关闭微软安全中心
 * **隐私与匿名**
-    * Tor Browser
+    * 
     * SMS-Activate
     * 100% 免费临时电话号码用于短信
     * 临时电话号码 - 免费获取一次性电话号码 - 在线接收短信
@@ -339,53 +339,51 @@
 
 ### 🖥️ **开发、编程与机器人**
 * **IDE/编程环境**
-    * Anaconda
-    * Dev-C++
-    * Docker Desktop
-    * Git
-    * GitHub Desktop
+    * 
+    * 
+    * 
+    * 
+    * 
     * Java
     * Keil uVision3
     * labview
-    * MobaXterm-Chinese-Simplified
     * 
-    * PyCharm Chinese ​(Simplified)​
-    * PyCharm
+    * 
+    *
+    * 
     * python
     * Proteus
     * QtScrcpy
-    * Ubuntu
-    * Visual Studio
-    * VS Code Chinese (Simplified) (简体中文)
-    * VS Code Python
-    * VS Code Tencent Cloud CodeBuddy
-    * VS Code
-    * Windows Subsystem for Linux (WSL)
+    * 
+    * 
+
+    * 
+    *  (WSL)
 * **机器人/工控**
-    * ABB
-    * Agile Robots 思灵机器人
-    * Cognex In-Sight
-    * DobotStudio Pro
-    * EFORT 埃夫特
-    * FAIRINO 法奥机器人
-    * INOVANCE 汇川技术
-    * KeMotion
-    * kuka
-    * realman 睿尔曼
+    * 
+    * 
+    * 
+    * 
+    * 
+    * 
+    * 
+    * 
+    * 
+    * 
     * RoboDK
-    * ROBOGUIDE
-    * ROKAE 珞石机器人
-    * SINSUN 新松机器人
+    * 
+    * 
+    * 
     * Universal Robots
     * 信捷电气
-    * 汇博机器人
+    * 
 * **CAD/工程软件**
-    * AutoCAD
-    * EPLAN
-    * NX
-    * SolidWorks
-    * 中望CAD
-    * 浩辰CAD
+    * 
+    * 
+    * 
+    * 
+    * 
+    * 
     * TIA (西门子自动化)
 * **调试/工具**
     * EasyTshark
@@ -447,23 +445,23 @@
 
 ### 🖼️ **影音娱乐与图像处理**
 * **播放器**
-    * K-Lite (解码器包)
+    *  (解码器包)
     * PotPlayer 64 bit
     * 完美解码
-    * QQ音乐
-    * 网易云音乐
-    * 腾讯视频
+    * 
+    * 
+    * 
 * **图像/截图**
     * 2345看图王
     * Fliqlo
     * PixPin
-    * QQScreenShot
-    * ShareX
-    * 美图秀秀
+    * 
+    * 
+    * 
 * **视频/录屏**
     * EV录屏
     * 剪映
-    * 抖音
+    * 
     * Utimate Vocal Remover
 * **阅读器**
     * Sumatra PDF
@@ -476,9 +474,9 @@
     * 夜神安卓模拟器
 
 ### 🌐 **浏览器与特定网络应用**
-* Edge
-* GoogleChrome
-* Tor Browser
+* 
+* 
+* 
 * Microsoft Store
 * 微软商店&XboxPC_直链导出&安装工具_Ver
 * 爱思助手
@@ -503,19 +501,19 @@
 * ZyperWin++
 * 单文件程序制作一键通三合一版
 * 单文件制作工具
-* 微软运行库
-* 万能驱动
-* 驱动精灵
+* 
+* 
+* 
 * GeekFlashTool
 
 ### 💬 **社交与通讯**
-* LINE
+* 
 * Potato
-* QQ
-* Telegram
+* 
+* 
 * WechatMoments
 * 企业微信
-* 微信
+* 
 * 腾讯会议
 * 钉钉
 * 飞书
@@ -549,7 +547,7 @@
 
 #### 3. 网络安全与隐私
 - **Fort Firewall**：专业防火墙软件，支持自定义规则和网络流量监控。
-- **UsbEAm Hosts Editor**：修改Hosts文件工具，加速GitHub、Steam等平台访问。
+- **UsbEAm Hosts Editor**：修改Hosts文件工具，加速Hub、Steam等平台访问。
 - **一键禁用卸载Windows Defender**：快速关闭或卸载系统自带杀毒软件，适合安装第三方防护工具的用户。
 
 ### 二、生产力与效率工具（核心应用）
@@ -564,51 +562,48 @@
 - **Bulk Rename Utility**：批量重命名工具，支持正则表达式和元数据编辑。
 
 #### 3. 截图与录屏
-- **ShareX**：多功能截图工具，支持区域截图、滚动截图及标注编辑。
+- ****：多功能截图工具，支持区域截图、滚动截图及标注编辑。
 - **EV录屏**：高清录屏软件，支持游戏录制、摄像头叠加及实时推流。
-- **ScreenToGif**：动态图制作工具，可录制屏幕、摄像头或画板内容并生成GIF。
+- ****：动态图制作工具，可录制屏幕、摄像头或画板内容并生成GIF。
 
 ### 三、网络工具与连接（通信保障）
 #### 1. 下载与云服务
-- ** ()**：多线程下载加速器，支持断点续传和视频嗅探。
-- **迅雷**：老牌下载工具，支持BT、磁力链接及离线下载。
+
 - **阿里云盘**：高速云存储服务，提供大容量免费空间和文件共享功能。
 
 #### 2. 代理与网络诊断
-- **Netch**：图形化代理工具，支持Shadowsocks、V2Ray等多种协议。
+- ****：图形化代理工具，支持Shadowsocks、V2Ray等多种协议。
 - **Nmap**：网络扫描工具，用于端口检测、主机发现和漏洞评估。
 - **IPvFoo**：网络诊断工具，显示IP地址、DNS解析及HTTP头信息。
 
 #### 3. 临时通信与隐私
 - **临时电话号码 - 免费获取一次性电话号码**：生成临时号码接收短信，适用于注册验证。
 - **Temp Mail - 临时邮箱**：创建一次性邮箱，避免个人邮箱暴露于垃圾邮件。
-- **Telegram**：加密即时通讯工具，支持群组、频道及大文件传输。
+- ****：加密即时通讯工具，支持群组、频道及大文件传输。
 
 ### 四、开发与技术支持（专业用户）
 #### 1. 编程与调试
-- **Visual Studio**：全功能IDE，支持C#、C++、Python等多语言开发。
-- **PyCharm**：专业Python集成开发环境，提供代码分析和调试工具。
-- **VS Code**：轻量级代码编辑器，支持插件扩展和多语言开发。
+
 
 #### 2. 版本控制与容器
-- **Git**：分布式版本控制系统，用于代码管理和协作开发。
-- **GitHub Desktop**：Git图形化客户端，简化代码提交和分支管理。
-- **Docker Desktop**：容器化平台，支持应用程序的打包、部署和运行。
+- ****：分布式版本控制系统，用于代码管理和协作开发。
+- ****：图形化客户端，简化代码提交和分支管理。
+- ****：容器化平台，支持应用程序的打包、部署和运行。
 
 #### 3. 硬件与系统工具
-- **CPU-Z**：硬件信息检测工具，显示处理器、内存及主板详细参数。
-- **AIDA64**：系统诊断工具，提供硬件监控、稳定性测试及基准跑分。
+- ****：硬件信息检测工具，显示处理器、内存及主板详细参数。
+- ****：系统诊断工具，提供硬件监控、稳定性测试及基准跑分。
 - **BOOTICE**：系统引导修复工具，支持BCD编辑、分区管理及ISO文件制作。
 
 ### 五、设计与创意（内容创作）
 #### 1. 图像处理
-- **美图秀秀**：简易图片编辑工具，支持滤镜、贴纸及人像美化。
+- ****：简易图片编辑工具，支持滤镜、贴纸及人像美化。
 - **格式工厂**：多媒体转换工具，支持视频、音频及图片格式转换。
 - **草料二维码**：在线生成二维码，支持文本、链接、文件等多种内容。
 
 #### 2. 3D建模与设计
-- **SolidWorks**：专业3D建模软件，用于机械设计和产品开发。
-- **AutoCAD**：二维/三维绘图工具，广泛应用于建筑、工程领域。
+- ****：专业3D建模软件，用于机械设计和产品开发。
+- ****：二维/三维绘图工具，广泛应用于建筑、工程领域。
 - **Proteus**：电路仿真软件，支持原理图设计和单片机调试。
 
 #### 3. 音视频处理
@@ -674,89 +669,89 @@
 3DM游戏网
 52pojie
 
-ABB
+
 Adobe Flash Player
 Advanced Installer
 Advanced IP Scanner
-Agile Robots 思灵机器人
-AIDA64
+
+
 AIGC工具
 AirPortal
 AI导航网
 AI工具箱
 AI工具集
 amcap+v3.0.9
-Anaconda
+
 Anthropic Claude
 Anytxt
 Aria
-AutoCAD
+
 Autodesk 批量激活
 
 Beyond Compare
-Bitwarden
+
 BOOTICE
 Bulk Rename Utility
 Carnac the Magnificent 
 CGI-plus
-ClashVergeRev
-Cognex In-Sight
+
+
 ContextMenuManager
-CPU-Z
+
 CuteHttpFileServer
 DeepSeek
-Dev-C++
+
 Diffchecker
-DirectX
+
 DiskGenius
 Dism++
 Ditto
 DNS Jumoer
 DnsTools
 DNS优选
-DobotStudio Pro
-Docker Desktop
-Dogfight360
+
+
+
 drivenlisten
 Dual Monitor Tools
 Duplicate Cleaner
 Duplicate Files Search
 EarTrumpet
-EasyRecovery
+
 EasyTshark
 EcoPaste
-Edge
-EdgeTools
-EFORT 埃夫特
+
+
+
 
 Enigma Virtual Box
-EPLAN
+
 Everything
 EV录屏
 explorerTool
-FAIRINO 法奥机器人
+
 FastCopy
 FFmpegFreeUI
 FileViewPro
 FileZilla
 FixWin 11
 Fliqlo
-FolderMove
+
 Fort Firewall
-FreeFileSync
+
 Geek Uninstaller
 GeekFlashTool
-Git
-GitHub Desktop
+
+
 Google Gemini
-GoogleChrome
+
 GO在线工具集
 HashCalculator
 HDDLLF
 HEU_KMS_Activator
 HiBit Uninstaller
 Homedale
-INOVANCE 汇川技术
+
 
 IObit Unlocker
 iOS任意版本号APP下载
@@ -765,14 +760,14 @@ itellyou
 iTunes
 IT天空
 Java
-K-Lite
+
 Keil uVision3
-KeMotion
+
 keyviz
-kuka
+
 labview
 Lenovo
-LINE
+
 localization
 LocalSend
 makesfx
@@ -781,14 +776,14 @@ mefcl
 MemoTrace
 Microsoft Copilot
 Microsoft Store
-MobaXterm-Chinese-Simplified
+
 Modbus 主站仿真器
 MODBUS调试助手
 Modscan32
 mping
 MyComputerManager
-Neat Download Manager
-Netch
+
+
 NetSetMan
 NetTool
 NETworkManager
@@ -796,7 +791,7 @@ Nmap
 
 Ntfs Drive Protection
 NTPWEdit
-NX
+
 O&O ShutUp10++
 Office
 OFGB
@@ -817,13 +812,13 @@ PotPlayer 64 bit
 PowerToys
 Privatezilla
 Proteus
-PyCharm Chinese ​(Simplified)​
-PyCharm
+ Chinese ​(Simplified)​
+
 python
-QJAR 钱江机器人
-QQ
-QQScreenShot
-QQ音乐
+
+
+
+
 QtScrcpy
 QTTabBar
 Quick Any2Ico
@@ -831,36 +826,36 @@ Quick User Manager
 Quicker
 QuickLook
 Ratool
-realman 睿尔曼
-RealVNC Viewer
+
+
 RoboDK
-ROBOGUIDE
-ROKAE 珞石机器人
+
+
 rutracker.org
 RyTuneX
 S7-200 SMART
-ScreenToGif
+
 SerialPro
-ShareX
+
 Sim_EKB_Install
-SINSUN 新松机器人
+
 SMS-Activate
 Sniffnet
-SolidWorks
+
 sordum系统工具网站
 SpaceSniffer
 Steam
 Sumatra PDF
 SumatraPDF
-Telegram
+
 Temp Mail - 临时邮箱 - 一次性邮箱
 thewindowsclub
 TIA
-ToDesk
+
 ToolDone
-Tor Browser
+
 UACWhitelistTool
-Ubuntu
+
 
 UniGetUI
 Universal Robots
@@ -872,24 +867,22 @@ uTools
 UU在线工具
 Ventoy
 Vimo Rebinder
-Visual Studio
-vmware
-VS Code Chinese (Simplified) (简体中文)
-VS Code Python
-VS Code Tencent Cloud CodeBuddy
-VS Code
+
+
+
+
 WechatMoments
 WGestures2
 WhyNotWin11
 Win10&11版本一键转换
 Windows 11 Fixer
-Windows Subsystem for Linux
+
 Windows Update Blocker v1.8
 Windows11轻松设置
 Windows超级管理器
 WinMerge
 WinNTSetup
-WinRAR
+
 WinSCP
 WinTune
 Wireshark
@@ -901,17 +894,17 @@ Wox
 WPD
 WPS
 xAI Grok
-XDown
+
 XmCopyName
 Xmind
 ZyperWin++
 一个木函
 一次性临时电子邮件 - Temp Mail
 一键禁用卸载Windows Defender
-万能驱动
+
 不坑盒子
 专利业务办理系统客户端
-中望CAD
+
 串口调试助手
 临时电话号码 - 免费获取一次性电话号码 - 在线接收短信
 临时邮箱 - 一次性临时电子邮件服务
@@ -927,7 +920,7 @@ ZyperWin++
 单文件程序制作一键通三合一版
 原神
 口袋系统WinToGo
-向日葵远程
+
 哲风壁纸
 图吧工具箱
 在线文本传输
@@ -951,27 +944,27 @@ ZyperWin++
 开拔网
 彼岸图网
 微PE工具箱
-微信
-微信通讯录好友导出与备份助手
+
+
 微软商店&XboxPC_直链导出&安装工具_Ver
 微软电脑管家
-微软运行库
-抖音
+
+
 拷贝兔
 推荐好用、优秀的 Windows 应用
 搞机助手
 文叔叔
 文墨天机
 无忧启动
-易我数据恢复
+
 星尘幻梦
 木鱼查询
 杏雨梨云启动维护系统
 果核剥壳
 枫の主题社
 格式工厂
-汇博机器人
-浩辰CAD
+
+
 火绒安全
 爱思助手
 爱玩机工具箱
@@ -980,15 +973,15 @@ ZyperWin++
 百度网盘
 简易封包工具
 線上接收簡訊
-网易云音乐
-美图秀秀
+
+
 联想电脑管家
 胡工物联
 腾讯会议
 腾讯微云
 腾讯文档
 腾讯桌面整理
-腾讯视频
+
 草料二维码
 萌研社
 萝卜头 WTG辅助工具
@@ -999,11 +992,10 @@ ZyperWin++
 路遥工具箱
 软件鸭
 轻松传
-迅雷
+
 远景论坛
 钉钉
 问真八字
 阿酷杂货铺
 阿里云盘
 飞书
-驱动精灵
