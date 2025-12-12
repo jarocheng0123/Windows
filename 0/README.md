@@ -1,3 +1,14 @@
+powershell -Command "$shell = New-Object -ComObject Shell.Application; $folder = $shell.Namespace(([Environment]::GetFolderPath('UserProfile'))); if ($folder) { $folder.Self.InvokeVerb('pintohome'); Write-Host '成功：已将用户文件夹' ([Environment]::GetFolderPath('UserProfile')) '固定到资源管理器左侧！' } else { Write-Host '失败：无法找到用户文件夹！' }"
+
+
+
+
+
+
+
+
+
+
 tree /f /a
 
 【搜索关键词匹配多url】
